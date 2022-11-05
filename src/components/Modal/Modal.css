@@ -1,0 +1,32 @@
+.modal-div{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(34, 34, 34, .9);
+    z-index: 200;
+  }
+  
+  .modal{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    left: 10%;
+    padding-bottom: 20px;
+    background-color: #141414;
+    color: white;
+    z-index: 205;
+    border-radius: 40px;
+    border: solid 2px rgb(112, 112, 112);
+    text-align: center;
+  }
+  
+  .modal-close{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    color: white;
+    font-size: 30px;
+    cursor: pointer;
+  }

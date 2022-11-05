@@ -1,0 +1,814 @@
+{
+  "2022": {
+    "participants": [
+      {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "1",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Bin",
+            "position": "top"
+          },
+          {
+            "name": "Wei",
+            "position": "jg"
+          },
+          {
+            "name": "Xiaohu",
+            "position": "mid"
+          },
+          {
+            "name": "Gala",
+            "position": "bot"
+          },
+          {
+            "name": "Ming",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "T1",
+        "name": "T1",
+        "placement": "2",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Zeus",
+            "position": "top"
+          },
+          {
+            "name": "Oner",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Gumayusi",
+            "position": "bot"
+          },
+          {
+            "name": "Keria",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "EG",
+        "name": "Evil Geniuses",
+        "placement": "3-4",
+        "region": "NA",
+        "roster": [
+          {
+            "name": "Impact",
+            "position": "top"
+          },
+          {
+            "name": "Inspired",
+            "position": "jg"
+          },
+          {
+            "name": "jojopyun",
+            "position": "mid"
+          },
+          {
+            "name": "Danny",
+            "position": "bot"
+          },
+          {
+            "name": "Vulcan",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "3-4",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "BrokenBlade",
+            "position": "top"
+          },
+          {
+            "name": "Jankos",
+            "position": "jg"
+          },
+          {
+            "name": "caPs",
+            "position": "mid"
+          },
+          {
+            "name": "Flakked",
+            "position": "bot"
+          },
+          {
+            "name": "Targamas",
+            "position": "sup"
+          }
+        ]
+      }
+    ]
+  },
+  "2021": {
+    "participants": [
+      {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "1",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Bin",
+            "position": "top"
+          },
+          {
+            "name": "Wei",
+            "position": "jg"
+          },
+          {
+            "name": "Xiaohu",
+            "position": "mid"
+          },
+          {
+            "name": "Gala",
+            "position": "bot"
+          },
+          {
+            "name": "Ming",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "DK",
+        "name": "Damwon",
+        "placement": "2",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Khan",
+            "position": "top"
+          },
+          {
+            "name": "Canyon",
+            "position": "jg"
+          },
+          {
+            "name": "ShowMaker",
+            "position": "mid"
+          },
+          {
+            "name": "Ghost",
+            "position": "bot"
+          },
+          {
+            "name": "Beryl",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "PSG",
+        "name": "PSG Talon",
+        "placement": "3-4",
+        "region": "PCS",
+        "roster": [
+          {
+            "name": "Hanabi",
+            "position": "top"
+          },
+          {
+            "name": "Juhan",
+            "position": "jg"
+          },
+          {
+            "name": "Bay",
+            "position": "mid"
+          },
+          {
+            "name": "Unified",
+            "position": "bot"
+          },
+          {
+            "name": "Kaiwing",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "MAD",
+        "name": "MAD Lions",
+        "placement": "3-4",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Armut",
+            "position": "top"
+          },
+          {
+            "name": "Elyoya",
+            "position": "jg"
+          },
+          {
+            "name": "Humanoid",
+            "position": "mid"
+          },
+          {
+            "name": "Carzzy",
+            "position": "bot"
+          },
+          {
+            "name": "Kaiser",
+            "position": "sup"
+          }
+        ]
+      }
+    ]
+  },
+  "2019": {
+    "participants": [
+      {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "1",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Wunder",
+            "position": "top"
+          },
+          {
+            "name": "Jankos",
+            "position": "jg"
+          },
+          {
+            "name": "Caps",
+            "position": "mid"
+          },
+          {
+            "name": "Perkz",
+            "position": "bot"
+          },
+          {
+            "name": "Mikyx",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "TL",
+        "name": "Team Liquid",
+        "placement": "2",
+        "region": "NA",
+        "roster": [
+          {
+            "name": "Impact",
+            "position": "top"
+          },
+          {
+            "name": "Xmithie",
+            "position": "jg"
+          },
+          {
+            "name": "Jensen",
+            "position": "mid"
+          },
+          {
+            "name": "Doublelift",
+            "position": "bot"
+          },
+          {
+            "name": "CoreJJ",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "IG",
+        "name": "Invictus Gaming",
+        "placement": "3-4",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "TheShy",
+            "position": "top"
+          },
+          {
+            "name": "Ning",
+            "position": "jg"
+          },
+          {
+            "name": "Rookie",
+            "position": "mid"
+          },
+          {
+            "name": "JackeyLove",
+            "position": "bot"
+          },
+          {
+            "name": "Baolan",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "SKT",
+        "name": "SK Telecom T1",
+        "placement": "3-4",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Khan",
+            "position": "top"
+          },
+          {
+            "name": "Clid",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Teddy",
+            "position": "bot"
+          },
+          {
+            "name": "Mata",
+            "position": "sup"
+          }
+        ]
+      }
+    ]
+  },
+  "2018": {
+    "participants": [
+      {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "1",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Letme",
+            "position": "top"
+          },
+          {
+            "name": "Karsa",
+            "position": "jg"
+          },
+          {
+            "name": "Xiaohu",
+            "position": "mid"
+          },
+          {
+            "name": "Uzi",
+            "position": "bot"
+          },
+          {
+            "name": "Ming",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "KZ",
+        "name": "Kingzone DragonX",
+        "placement": "2",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Khan",
+            "position": "top"
+          },
+          {
+            "name": "Peanut",
+            "position": "jg"
+          },
+          {
+            "name": "Bdd",
+            "position": "mid"
+          },
+          {
+            "name": "PraY",
+            "position": "bot"
+          },
+          {
+            "name": "GorillA",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "FW",
+        "name": "Flash Wolves",
+        "placement": "3-4",
+        "region": "LMS",
+        "roster": [
+          {
+            "name": "Hanabi",
+            "position": "top"
+          },
+          {
+            "name": "Moojin",
+            "position": "jg"
+          },
+          {
+            "name": "Maple",
+            "position": "mid"
+          },
+          {
+            "name": "Betty",
+            "position": "bot"
+          },
+          {
+            "name": "SwordArt",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "FNC",
+        "name": "Fnatic",
+        "placement": "3-4",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Bwipo",
+            "position": "top"
+          },
+          {
+            "name": "Broxah",
+            "position": "jg"
+          },
+          {
+            "name": "Caps",
+            "position": "mid"
+          },
+          {
+            "name": "Rekkles",
+            "position": "bot"
+          },
+          {
+            "name": "Hylissang",
+            "position": "sup"
+          }
+        ]
+      }
+    ]
+  },
+  "2017": {
+    "participants": [
+      {
+        "abbreviation": "SKT",
+        "name": "SK Telecom T1",
+        "placement": "1",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Huni",
+            "position": "top"
+          },
+          {
+            "name": "Peanut",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Bang",
+            "position": "bot"
+          },
+          {
+            "name": "Wolf",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "2",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Expect",
+            "position": "top"
+          },
+          {
+            "name": "Trick",
+            "position": "jg"
+          },
+          {
+            "name": "Perkz",
+            "position": "mid"
+          },
+          {
+            "name": "Zven",
+            "position": "bot"
+          },
+          {
+            "name": "mithy",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "FW",
+        "name": "Flash Wolves",
+        "placement": "3-4",
+        "region": "LMS",
+        "roster": [
+          {
+            "name": "MMD",
+            "position": "top"
+          },
+          {
+            "name": "Karsa",
+            "position": "jg"
+          },
+          {
+            "name": "Maple",
+            "position": "mid"
+          },
+          {
+            "name": "Betty",
+            "position": "bot"
+          },
+          {
+            "name": "SwordArt",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "WE",
+        "name": "Team WE",
+        "placement": "3-4",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "957",
+            "position": "top"
+          },
+          {
+            "name": "Condi",
+            "position": "jg"
+          },
+          {
+            "name": "xiye",
+            "position": "mid"
+          },
+          {
+            "name": "Mystic",
+            "position": "bot"
+          },
+          {
+            "name": "Ben",
+            "position": "sup"
+          }
+        ]
+      }
+    ]
+  },
+  "2016": {
+    "participants": [
+      {
+        "abbreviation": "SKT",
+        "name": "SK Telecom T1",
+        "placement": "1",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Duke",
+            "position": "top"
+          },
+          {
+            "name": "Blank",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Bang",
+            "position": "bot"
+          },
+          {
+            "name": "Wolf",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "CLG",
+        "name": "Counter Logic Gaming",
+        "placement": "2",
+        "region": "NA",
+        "roster": [
+          {
+            "name": "Darshan",
+            "position": "top"
+          },
+          {
+            "name": "Xmithie",
+            "position": "jg"
+          },
+          {
+            "name": "Huhi",
+            "position": "mid"
+          },
+          {
+            "name": "Stixxay",
+            "position": "bot"
+          },
+          {
+            "name": "Aphromoo",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "FW",
+        "name": "Flash Wolves",
+        "placement": "3-4",
+        "region": "LMS",
+        "roster": [
+          {
+            "name": "MMD",
+            "position": "top"
+          },
+          {
+            "name": "Karsa",
+            "position": "jg"
+          },
+          {
+            "name": "Maple",
+            "position": "mid"
+          },
+          {
+            "name": "NL",
+            "position": "bot"
+          },
+          {
+            "name": "SwordArt",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "3-4",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Looper",
+            "position": "top"
+          },
+          {
+            "name": "mlxg",
+            "position": "jg"
+          },
+          {
+            "name": "Xiaohu",
+            "position": "mid"
+          },
+          {
+            "name": "Wuxx",
+            "position": "bot"
+          },
+          {
+            "name": "Mata",
+            "position": "sup"
+          }
+        ]
+      }
+    ]
+  },
+  "2015": {
+    "participants": [
+      {
+        "abbreviation": "SKT",
+        "name": "SK Telecom T1",
+        "placement": "2",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "MaRin",
+            "position": "top"
+          },
+          {
+            "name": "Bengi",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Bang",
+            "position": "bot"
+          },
+          {
+            "name": "Wolf",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "FNC",
+        "name": "Fnatic",
+        "placement": "2",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Huni",
+            "position": "top"
+          },
+          {
+            "name": "Reignover",
+            "position": "jg"
+          },
+          {
+            "name": "Febiven",
+            "position": "mid"
+          },
+          {
+            "name": "SteelBack",
+            "position": "bot"
+          },
+          {
+            "name": "YellOwStaR",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "AHQ",
+        "name": "ahq eSports Club",
+        "placement": "3-4",
+        "region": "LMS",
+        "roster": [
+          {
+            "name": "Ziv",
+            "position": "top"
+          },
+          {
+            "name": "Mountain",
+            "position": "jg"
+          },
+          {
+            "name": "westdoor",
+            "position": "mid"
+          },
+          {
+            "name": "AN",
+            "position": "bot"
+          },
+          {
+            "name": "Albis",
+            "position": "sup"
+          }
+        ]
+      },
+      {
+        "abbreviation": "EDG",
+        "name": "Edward Gaming",
+        "placement": "1",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Ziv",
+            "position": "top"
+          },
+          {
+            "name": "Mountain",
+            "position": "jg"
+          },
+          {
+            "name": "westdoor",
+            "position": "mid"
+          },
+          {
+            "name": "AN",
+            "position": "bot"
+          },
+          {
+            "name": "Albis",
+            "position": "sup"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,38 +1,249 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.app{
   min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  background: url(../public/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.app-main{
+  margin-right: 15%;
+  margin-left: 15%;
+  min-height: calc(100vh - 104px);
+}
+
+@media only screen and (max-width: 1046px) {
+  .app-main{
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+}
+
+h1{
+  font-size: 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+h2{
+  font-size: 32px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+
+h3{
+  font-size: 24px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.title, .sub-title{
   color: white;
+  text-align: center;
+  width: 100%;
 }
 
-.App-link {
-  color: #61dafb;
+.home .table {
+  text-align: center;
+  border-radius: 20px;
+  overflow: hidden;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.home .table .row{
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  align-items: center;
 }
+
+.home .table .row .column{
+  flex: 1 1 0;
+}
+
+.home .table .row{
+  background-color: lightgray;
+  color: black;
+  }
+.home .table .row:nth-child(1){
+background-color: black;
+color: white;
+}
+
+.home section p {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+
+.home section:last-child {
+padding-bottom: 20px;}
+
+.home .card{
+  max-width: 700px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.home .card .card-header h3{
+  padding-left: 0 !important;
+}
+
+.tournaments .tournaments-list div{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.tournaments .tournaments-list span{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.event .card{
+  cursor: pointer;
+}
+
+.teams .card, .players .card{
+
+  cursor: pointer;
+}
+
+.teams .event-header .event-name, .players .event-header .event-name{
+  font-size: 32px;
+  line-height: 43px;
+}
+
+.teams .event-header .finished, .players .event-header .finished{
+  height: 40px;
+  position: relative;
+  top: 10px;
+}
+
+.teams .roster-span,.players .roster-span{
+  cursor: pointer;
+  color: aqua;
+  white-space: nowrap;
+}
+
+.roster-arrow {
+  transform: rotate(0deg);
+  display: inline-block;
+}
+
+.open .roster-arrow {
+  transform: rotate(180deg);
+}
+
+.teams .roster, .players .roster {
+  display: none !important;
+}
+
+.teams .open .roster, .players .open .roster {
+  display: flex !important;
+}
+
+.event .card:hover{
+  box-shadow: 5px 5px 5px gray;
+}
+
+.event .first{
+ border: 2px solid gold;
+}
+
+.event .second{
+  border: 2px solid silver;
+ }
+
+ .event .third{
+  border: 2px solid #CD7F32;
+  width: 50%;
+  min-width: 280px
+ }
+
+ .event .fifth-eighth,  .event .third-fourth{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+ .event .fifth{
+  width: 48%;
+  min-width: 280px;
+  margin: 1%;
+ }
+
+ .event .tier{
+margin-bottom: 30px }
+
+.event .modal .region-seed{
+  font-size: 20px;
+}
+
+.event .modal .placement{
+  margin-top: 5px;
+}
+
+.event .modal .roster{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.tournaments .card{
+  margin-top: 20px;
+  max-width: 500px;
+  min-width: 300px;
+  /* flex-basis: 30%;
+  flex-grow: 0;
+  flex-shrink: 0; */
+  margin-right: 20px;
+}
+
+a{ 
+  text-decoration: none;
+}
+
+.tournaments .card.worlds-card{
+  transition: .3s;
+  border: 1px black solid;
+}
+
+.tournaments .card.worlds-card:hover{
+  border: 1px rgb(85, 138, 156) solid;
+}
+
+.tournaments .card.msi-card{
+  transition: .3s;
+  border: 1px #A9A9A9 solid;
+}
+
+.tournaments .card.msi-card:hover{
+  border: 1px white solid;
+}
+
+.teams .teams-list, .players .players-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.teams .teams-list .card, .players .players-list .card{
+
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  min-width: 280px;
+}
+
+.teams .modal .roster, .players .modal .roster{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* #00897b green
+#00564d	dark green
+#141414 extra dark gray
+#282828	dark gray
+#363636	gray
+#969696 light gray
+*/
