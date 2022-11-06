@@ -22,6 +22,7 @@ function App() {
         <main className="app-main">
           <Routes>
             <Route path="/" element={<Home />}></Route>
+            <Route path="/lolestats" element={<Home />}></Route>
             <Route path="/teams" element={<Teams />}></Route>
             <Route path="/players" element={<Players />}></Route>
             <Route path="/tournaments" element={<Tournaments />}></Route>
