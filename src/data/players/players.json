@@ -5113,38 +5113,6 @@
       }
     },
     {
-      "Worlds 2022": {
-        "abbreviation": "DRX",
-        "name": "DRX",
-        "placement": "2",
-        "ap": "6",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Doran",
-            "position": "top"
-          },
-          {
-            "name": "Pyosik",
-            "position": "jg"
-          },
-          {
-            "name": "Chovy",
-            "position": "mid"
-          },
-          {
-            "name": "Deft",
-            "position": "bot"
-          },
-          {
-            "name": "Keria",
-            "position": "sup"
-          }
-        ],
-        "seed": 4
-      }
-    },
-    {
       "Worlds 2021": {
         "abbreviation": "HLE",
         "name": "Hanwha Life Esports",
@@ -11739,6 +11707,40 @@
       }
     }
   ],
+  "Kingen": [
+    {
+      "Worlds 2022": {
+        "abbreviation": "DRX",
+        "name": "DRX",
+        "placement": "1",
+        "ap": "10",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Kingen",
+            "position": "top"
+          },
+          {
+            "name": "Pyosik",
+            "position": "jg"
+          },
+          {
+            "name": "Zeka",
+            "position": "mid"
+          },
+          {
+            "name": "Deft",
+            "position": "bot"
+          },
+          {
+            "name": "Beryl",
+            "position": "sup"
+          }
+        ],
+        "seed": 4
+      }
+    }
+  ],
   "TheShy": [
     {
       "Worlds 2018": {
@@ -13216,38 +13218,6 @@
       }
     },
     {
-      "Worlds 2022": {
-        "abbreviation": "DRX",
-        "name": "DRX",
-        "placement": "2",
-        "ap": "6",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Doran",
-            "position": "top"
-          },
-          {
-            "name": "Pyosik",
-            "position": "jg"
-          },
-          {
-            "name": "Chovy",
-            "position": "mid"
-          },
-          {
-            "name": "Deft",
-            "position": "bot"
-          },
-          {
-            "name": "Keria",
-            "position": "sup"
-          }
-        ],
-        "seed": 4
-      }
-    },
-    {
       "Worlds 2021": {
         "abbreviation": "HLE",
         "name": "Hanwha Life Esports",
@@ -14459,17 +14429,19 @@
         "seed": 2,
         "rosterOpen": false
       }
-    },
+    }
+  ],
+  "Zeka": [
     {
       "Worlds 2022": {
         "abbreviation": "DRX",
         "name": "DRX",
-        "placement": "2",
-        "ap": "6",
+        "placement": "1",
+        "ap": "10",
         "region": "KR",
         "roster": [
           {
-            "name": "Doran",
+            "name": "Kingen",
             "position": "top"
           },
           {
@@ -14477,7 +14449,7 @@
             "position": "jg"
           },
           {
-            "name": "Chovy",
+            "name": "Zeka",
             "position": "mid"
           },
           {
@@ -14485,7 +14457,7 @@
             "position": "bot"
           },
           {
-            "name": "Keria",
+            "name": "Beryl",
             "position": "sup"
           }
         ],
@@ -14531,12 +14503,12 @@
       "Worlds 2022": {
         "abbreviation": "DRX",
         "name": "DRX",
-        "placement": "2",
-        "ap": "6",
+        "placement": "1",
+        "ap": "10",
         "region": "KR",
         "roster": [
           {
-            "name": "Doran",
+            "name": "Kingen",
             "position": "top"
           },
           {
@@ -14544,7 +14516,7 @@
             "position": "jg"
           },
           {
-            "name": "Chovy",
+            "name": "Zeka",
             "position": "mid"
           },
           {
@@ -14552,7 +14524,7 @@
             "position": "bot"
           },
           {
-            "name": "Keria",
+            "name": "Beryl",
             "position": "sup"
           }
         ],
@@ -14598,12 +14570,12 @@
       "Worlds 2022": {
         "abbreviation": "DRX",
         "name": "DRX",
-        "placement": "2",
-        "ap": "6",
+        "placement": "1",
+        "ap": "10",
         "region": "KR",
         "roster": [
           {
-            "name": "Doran",
+            "name": "Kingen",
             "position": "top"
           },
           {
@@ -14611,7 +14583,7 @@
             "position": "jg"
           },
           {
-            "name": "Chovy",
+            "name": "Zeka",
             "position": "mid"
           },
           {
@@ -14619,7 +14591,7 @@
             "position": "bot"
           },
           {
-            "name": "Keria",
+            "name": "Beryl",
             "position": "sup"
           }
         ],
@@ -14663,8 +14635,8 @@
       "Worlds 2022": {
         "abbreviation": "T1",
         "name": "T1",
-        "placement": "1",
-        "ap": "10",
+        "placement": "2",
+        "ap": "6",
         "region": "KR",
         "roster": [
           {
@@ -15155,6 +15127,39 @@
     }
   ],
   "Beryl": [
+    {
+      "Worlds 2022": {
+        "abbreviation": "DRX",
+        "name": "DRX",
+        "placement": "1",
+        "ap": "20",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Kingen",
+            "position": "top"
+          },
+          {
+            "name": "Pyosik",
+            "position": "jg"
+          },
+          {
+            "name": "Zeka",
+            "position": "mid"
+          },
+          {
+            "name": "Deft",
+            "position": "bot"
+          },
+          {
+            "name": "Beryl",
+            "position": "sup"
+          }
+        ],
+        "seed": 4
+      }
+    },
+
     {
       "Worlds 2021": {
         "abbreviation": "DK",
@@ -15923,8 +15928,8 @@
       "Worlds 2022": {
         "abbreviation": "T1",
         "name": "T1",
-        "placement": "1",
-        "ap": "10",
+        "placement": "2",
+        "ap": "6",
         "region": "KR",
         "roster": [
           {
@@ -16822,8 +16827,8 @@
       "Worlds 2022": {
         "abbreviation": "T1",
         "name": "T1",
-        "placement": "1",
-        "ap": "10",
+        "placement": "2",
+        "ap": "6",
         "region": "KR",
         "roster": [
           {
@@ -16922,8 +16927,8 @@
       "Worlds 2022": {
         "abbreviation": "T1",
         "name": "T1",
-        "placement": "1",
-        "ap": "10",
+        "placement": "2",
+        "ap": "6",
         "region": "KR",
         "roster": [
           {
@@ -17022,8 +17027,8 @@
       "Worlds 2022": {
         "abbreviation": "T1",
         "name": "T1",
-        "placement": "1",
-        "ap": "10",
+        "placement": "2",
+        "ap": "6",
         "region": "KR",
         "roster": [
           {

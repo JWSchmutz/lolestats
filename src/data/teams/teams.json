@@ -2735,12 +2735,12 @@
       "Worlds 2022": {
         "abbreviation": "DRX",
         "name": "DRX",
-        "placement": "2",
-        "ap": "6",
+        "placement": "1",
+        "ap": "10",
         "region": "KR",
         "roster": [
           {
-            "name": "Doran",
+            "name": "Kingen",
             "position": "top"
           },
           {
@@ -2748,7 +2748,7 @@
             "position": "jg"
           },
           {
-            "name": "Chovy",
+            "name": "Zeka",
             "position": "mid"
           },
           {
@@ -2756,7 +2756,7 @@
             "position": "bot"
           },
           {
-            "name": "Keria",
+            "name": "Beryl",
             "position": "sup"
           }
         ],

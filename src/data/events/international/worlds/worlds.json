@@ -91,11 +91,11 @@
       {
         "abbreviation": "DRX",
         "name": "DRX",
-        "placement": "2",
+        "placement": "1",
         "region": "KR",
         "roster": [
           {
-            "name": "Doran",
+            "name": "Kingen",
             "position": "top"
           },
           {
@@ -103,7 +103,7 @@
             "position": "jg"
           },
           {
-            "name": "Chovy",
+            "name": "Zeka",
             "position": "mid"
           },
           {
@@ -111,7 +111,7 @@
             "position": "bot"
           },
           {
-            "name": "Keria",
+            "name": "Beryl",
             "position": "sup"
           }
         ],
