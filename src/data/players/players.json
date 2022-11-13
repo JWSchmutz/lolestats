@@ -1037,6 +1037,38 @@
   ],
   "Caps": [
     {
+      "MSI 2022": {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "3-4",
+        "ap": "1",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "BrokenBlade",
+            "position": "top"
+          },
+          {
+            "name": "Jankos",
+            "position": "jg"
+          },
+          {
+            "name": "Caps",
+            "position": "mid"
+          },
+          {
+            "name": "Flakked",
+            "position": "bot"
+          },
+          {
+            "name": "Targamas",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false
+      }
+    },
+    {
       "Worlds 2017": {
         "abbreviation": "FNC",
         "name": "Fnatic",
@@ -1159,7 +1191,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -1192,7 +1224,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -1225,7 +1257,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -3075,7 +3107,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -3108,7 +3140,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -3141,7 +3173,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -8520,7 +8552,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -8553,7 +8585,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -8586,7 +8618,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -8643,7 +8675,7 @@
             "position": "jg"
           },
           {
-            "name": "caPs",
+            "name": "Caps",
             "position": "mid"
           },
           {
@@ -12299,7 +12331,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -12332,7 +12364,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -12365,7 +12397,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -12406,7 +12438,39 @@
       }
     }
   ],
-  "MikyX": [
+  "Mikyx": [
+    {
+      "MSI 2019": {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "1",
+        "ap": "5",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Wunder",
+            "position": "top"
+          },
+          {
+            "name": "Jankos",
+            "position": "jg"
+          },
+          {
+            "name": "Caps",
+            "position": "mid"
+          },
+          {
+            "name": "Perkz",
+            "position": "bot"
+          },
+          {
+            "name": "Mikyx",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false
+      }
+    },
     {
       "Worlds 2018": {
         "abbreviation": "G2",
@@ -12432,7 +12496,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -12465,7 +12529,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -12498,7 +12562,7 @@
             "position": "bot"
           },
           {
-            "name": "MikyX",
+            "name": "Mikyx",
             "position": "sup"
           }
         ],
@@ -12609,40 +12673,6 @@
       }
     }
   ],
-  "Mikyx": [
-    {
-      "MSI 2019": {
-        "abbreviation": "G2",
-        "name": "G2",
-        "placement": "1",
-        "ap": "5",
-        "region": "EU",
-        "roster": [
-          {
-            "name": "Wunder",
-            "position": "top"
-          },
-          {
-            "name": "Jankos",
-            "position": "jg"
-          },
-          {
-            "name": "Caps",
-            "position": "mid"
-          },
-          {
-            "name": "Perkz",
-            "position": "bot"
-          },
-          {
-            "name": "Mikyx",
-            "position": "sup"
-          }
-        ],
-        "rosterOpen": false
-      }
-    }
-  ],
   "BrokenBlade": [
     {
       "MSI 2022": {
@@ -12661,41 +12691,7 @@
             "position": "jg"
           },
           {
-            "name": "caPs",
-            "position": "mid"
-          },
-          {
-            "name": "Flakked",
-            "position": "bot"
-          },
-          {
-            "name": "Targamas",
-            "position": "sup"
-          }
-        ],
-        "rosterOpen": false
-      }
-    }
-  ],
-  "caPs": [
-    {
-      "MSI 2022": {
-        "abbreviation": "G2",
-        "name": "G2",
-        "placement": "3-4",
-        "ap": "1",
-        "region": "EU",
-        "roster": [
-          {
-            "name": "BrokenBlade",
-            "position": "top"
-          },
-          {
-            "name": "Jankos",
-            "position": "jg"
-          },
-          {
-            "name": "caPs",
+            "name": "Caps",
             "position": "mid"
           },
           {
@@ -12729,7 +12725,7 @@
             "position": "jg"
           },
           {
-            "name": "caPs",
+            "name": "Caps",
             "position": "mid"
           },
           {
@@ -12763,7 +12759,7 @@
             "position": "jg"
           },
           {
-            "name": "caPs",
+            "name": "Caps",
             "position": "mid"
           },
           {
