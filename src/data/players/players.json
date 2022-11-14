@@ -1183,15 +1183,15 @@
             "position": "jg"
           },
           {
-            "name": "Caps",
+            "name": "Perkz",
             "position": "mid"
           },
           {
-            "name": "Perkz",
+            "name": "Hjarnan",
             "position": "bot"
           },
           {
-            "name": "Mikyx",
+            "name": "Wadid",
             "position": "sup"
           }
         ],
@@ -3099,15 +3099,15 @@
             "position": "jg"
           },
           {
-            "name": "Caps",
+            "name": "Perkz",
             "position": "mid"
           },
           {
-            "name": "Perkz",
+            "name": "Hjarnan",
             "position": "bot"
           },
           {
-            "name": "Mikyx",
+            "name": "Wadid",
             "position": "sup"
           }
         ],
@@ -8544,15 +8544,15 @@
             "position": "jg"
           },
           {
-            "name": "Caps",
+            "name": "Perkz",
             "position": "mid"
           },
           {
-            "name": "Perkz",
+            "name": "Hjarnan",
             "position": "bot"
           },
           {
-            "name": "Mikyx",
+            "name": "Wadid",
             "position": "sup"
           }
         ],
@@ -12323,15 +12323,15 @@
             "position": "jg"
           },
           {
-            "name": "Caps",
+            "name": "Perkz",
             "position": "mid"
           },
           {
-            "name": "Perkz",
+            "name": "Hjarnan",
             "position": "bot"
           },
           {
-            "name": "Mikyx",
+            "name": "Wadid",
             "position": "sup"
           }
         ],
@@ -12488,15 +12488,15 @@
             "position": "jg"
           },
           {
-            "name": "Caps",
+            "name": "Perkz",
             "position": "mid"
           },
           {
-            "name": "Perkz",
+            "name": "Hjarnan",
             "position": "bot"
           },
           {
-            "name": "Mikyx",
+            "name": "Wadid",
             "position": "sup"
           }
         ],
@@ -18026,6 +18026,74 @@
           },
           {
             "name": "Vulcan",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false
+      }
+    }
+  ],
+  "Hjarnan": [
+    {
+      "Worlds 2018": {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "3-4",
+        "ap": "4",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Wunder",
+            "position": "top"
+          },
+          {
+            "name": "Jankos",
+            "position": "jg"
+          },
+          {
+            "name": "Perkz",
+            "position": "mid"
+          },
+          {
+            "name": "Hjarnan",
+            "position": "bot"
+          },
+          {
+            "name": "Wadid",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false
+      }
+    }
+  ],
+  "Wadid": [
+    {
+      "Worlds 2018": {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "3-4",
+        "ap": "4",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Wunder",
+            "position": "top"
+          },
+          {
+            "name": "Jankos",
+            "position": "jg"
+          },
+          {
+            "name": "Perkz",
+            "position": "mid"
+          },
+          {
+            "name": "Hjarnan",
+            "position": "bot"
+          },
+          {
+            "name": "Wadid",
             "position": "sup"
           }
         ],
