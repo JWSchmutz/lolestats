@@ -54,7 +54,7 @@ function Home() {
 
   return (
     <div className="home">
-      <h1 className="title">LOL Estats</h1>
+      <h1 className="title">LoL eStats</h1>
       <div className="players-list">
         <h2 className="title">Top Achieving Players</h2>
         {playersList.map((player, i) => {
@@ -147,7 +147,7 @@ function Home() {
         <p>
           I wanted to make a website where I could quickly see a teams results,
           their rosters at events, and individual player results. I didn't feel
-          like any of the tools were intuitive, so I made LOL EStats. I hope you
+          like any of the tools were intuitive, so I made LoL eStats. I hope you
           like it.
         </p>
         <p>

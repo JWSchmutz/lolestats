@@ -15,7 +15,7 @@ function App() {
     <Router>
       <div className="app">
         <Navbar
-          title="LoL EStats"
+          title="LoL eStats"
           pages={["home", "players", "teams", "tournaments"]}
         />
 
@@ -42,7 +42,7 @@ function App() {
     // <Router>
     //   <div className="app">
     //     <Navbar
-    //       title="LoL EStats"
+    //       title="LoL eStats"
     //       pages={["home", "players", "teams", "tournaments"]}
     //     />
 
