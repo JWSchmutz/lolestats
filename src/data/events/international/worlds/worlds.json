@@ -3,7 +3,7 @@
     "participants": [
       {
         "abbreviation": "DK",
-        "name": "Damwon",
+        "name": "DWG Kia",
         "placement": "5-8",
         "region": "KR",
         "roster": [
@@ -239,7 +239,8 @@
     "participants": [
       {
         "abbreviation": "DK",
-        "name": "Damwon",
+        "name": "DWG Kia",
+        "trueName": "DK",
         "placement": "2",
         "region": "KR",
         "roster": [
@@ -476,6 +477,7 @@
       {
         "abbreviation": "DWG",
         "name": "DAMWON Gaming",
+        "trueName": "DK",
         "placement": "1",
         "region": "KR",
         "roster": [
@@ -770,6 +772,7 @@
       {
         "abbreviation": "DWG",
         "name": "DAMWON Gaming",
+        "trueName": "DK",
         "placement": "5-8",
         "region": "KR",
         "roster": [
@@ -828,6 +831,7 @@
       {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "3-4",
         "region": "KR",
         "roster": [
@@ -1213,6 +1217,7 @@
       {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "2",
         "region": "KR",
         "roster": [
@@ -1421,6 +1426,7 @@
       {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "1",
         "region": "KR",
         "roster": [
@@ -1658,6 +1664,7 @@
       {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "1",
         "region": "KR",
         "roster": [
@@ -1687,6 +1694,7 @@
       {
         "abbreviation": "KOO",
         "name": "KOO Tigers",
+        "trueName": "ROX",
         "placement": "2",
         "region": "KR",
         "roster": [
@@ -1923,6 +1931,7 @@
       {
         "abbreviation": "SHR",
         "name": "Star Horn Royal Club",
+        "trueName": "RNG",
         "placement": "2",
         "region": "CN",
         "roster": [
@@ -2129,7 +2138,8 @@
     "participants": [
       {
         "abbreviation": "SKT",
-        "name": "Sk Telecom T1",
+        "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "1",
         "region": "KR",
         "roster": [
@@ -2159,6 +2169,7 @@
       {
         "abbreviation": "SHR",
         "name": "Star Horn Royal Club",
+        "trueName": "RNG",
         "placement": "2",
         "region": "CN",
         "roster": [

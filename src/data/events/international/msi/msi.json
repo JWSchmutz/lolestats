@@ -320,6 +320,7 @@
       {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "3-4",
         "region": "KR",
         "roster": [
@@ -380,6 +381,7 @@
       {
         "abbreviation": "KZ",
         "name": "Kingzone DragonX",
+        "trueName": "DRX",
         "placement": "2",
         "region": "KR",
         "roster": [
@@ -468,6 +470,7 @@
       {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "1",
         "region": "KR",
         "roster": [
@@ -584,6 +587,7 @@
       {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "1",
         "region": "KR",
         "roster": [
@@ -700,6 +704,7 @@
       {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
+        "trueName": "T1",
         "placement": "2",
         "region": "KR",
         "roster": [
