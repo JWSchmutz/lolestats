@@ -1,10 +1,13 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 import worlds from "../data/events/international/worlds/worlds.json";
+import msi from "../data/events/international/msi/msi.json";
+
 import Card from "../components/Card/Card";
+
 import worldsLogo from "../images/logos/worlds.jpg";
 import msiLogo from "../images/logos/msi.svg";
-import msi from "../data/events/international/msi/msi.json";
-import { Link } from "react-router-dom";
 
 function Tournaments() {
   console.log(worlds);

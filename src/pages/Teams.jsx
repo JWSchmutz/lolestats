@@ -1,26 +1,28 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Card from "../components/Card/Card";
 import Modal from "../components/Modal/Modal";
 // import worlds from "../data/events/international/worlds/worlds.json";
 // import msi from "../data/events/international/msi/msi.json";
 import teams from "../data/teams/teams.json";
 function Teams() {
-  for (const team in teams) {
-    if (Object.hasOwnProperty.call(teams, team)) {
-      const element = teams[team].reduce(
-        (a, b) => a + parseInt(b[Object.keys(b)[0]].ap),
-        0
-      );
-      teams[team][0][Object.keys(teams[team][0])].totalAP = element;
+  useEffect(() => {
+    for (const team in teams) {
+      if (Object.hasOwnProperty.call(teams, team)) {
+        const element = teams[team].reduce(
+          (a, b) => a + parseInt(b[Object.keys(b)[0]].ap),
+          0
+        );
+        teams[team][0][Object.keys(teams[team][0])].totalAP = element;
+      }
+      teams[team]
+        .sort((a, b) => (Object.keys(a)[0] > Object.keys(b)[0] ? -1 : 1))
+        .sort((a, b) =>
+          Object.keys(a)[0].split(" ")[1] > Object.keys(b)[0].split(" ")[1]
+            ? -1
+            : 1
+        );
     }
-    teams[team]
-      .sort((a, b) => (Object.keys(a)[0] > Object.keys(b)[0] ? -1 : 1))
-      .sort((a, b) =>
-        Object.keys(a)[0].split(" ")[1] > Object.keys(b)[0].split(" ")[1]
-          ? -1
-          : 1
-      );
-  }
+  }, []);
   const [teamsList, setTeamsList] = useState(
     Object.keys(teams).sort((a, b) =>
       parseInt(teams[a][0][Object.keys(teams[a][0])[0]].totalAP) >
