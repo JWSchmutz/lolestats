@@ -20,22 +20,22 @@ function Players() {
   //     });
   //   }
   // }
-  for (const player in players) {
-    if (Object.hasOwnProperty.call(players, player)) {
-      const element = players[player].reduce(
-        (a, b) => a + parseInt(b[Object.keys(b)[0]].ap),
-        0
-      );
-      players[player][0][Object.keys(players[player][0])].totalAP = element;
-    }
-    players[player]
-      .sort((a, b) => (Object.keys(a)[0] > Object.keys(b)[0] ? -1 : 1))
-      .sort((a, b) =>
-        Object.keys(a)[0].split(" ")[1] > Object.keys(b)[0].split(" ")[1]
-          ? -1
-          : 1
-      );
-  }
+  // for (const player in players) {
+  //   if (Object.hasOwnProperty.call(players, player)) {
+  //     const element = players[player].reduce(
+  //       (a, b) => a + parseInt(b[Object.keys(b)[0]].ap),
+  //       0
+  //     );
+  //     players[player][0][Object.keys(players[player][0])].totalAP = element;
+  //   }
+  //   players[player]
+  //     .sort((a, b) => (Object.keys(a)[0] > Object.keys(b)[0] ? -1 : 1))
+  //     .sort((a, b) =>
+  //       Object.keys(a)[0].split(" ")[1] > Object.keys(b)[0].split(" ")[1]
+  //         ? -1
+  //         : 1
+  //     );
+  // }
   const [playersList, setPlayersList] = useState(
     Object.keys(players).sort((a, b) =>
       parseInt(players[a][0][Object.keys(players[a][0])[0]].totalAP) >
@@ -74,8 +74,8 @@ function Players() {
     <div className="players">
       <h1 className="title">Players</h1>
       <div className="players-list">
+        {console.log(players)}
         {playersList.map((player, i) => {
-          console.log(player);
           return (
             <Card
               key={i}
