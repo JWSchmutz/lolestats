@@ -32,7 +32,7 @@ function Teams() {
       )
     );
     setHasLoaded(teams["T1"][0][Object.keys(teams["T1"][0])].totalAP);
-  }, []);
+  }, [teamsList, teams]);
   const [teamsList, setTeamsList] = useState([]);
   const [hasLoaded, setHasLoaded] = useState(undefined);
 
