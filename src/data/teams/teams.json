@@ -1,73 +1,7 @@
 {
   "FNC": [
     {
-      "Worlds 2013": {
-        "abbreviation": "FNC",
-        "name": "Fnatic",
-        "placement": "3-4",
-        "ap": "4",
-        "region": "EU",
-        "roster": [
-          {
-            "name": "sOAZ",
-            "position": "top"
-          },
-          {
-            "name": "Cyanide",
-            "position": "jg"
-          },
-          {
-            "name": "xPeke",
-            "position": "mid"
-          },
-          {
-            "name": "Puszu",
-            "position": "bot"
-          },
-          {
-            "name": "YellOwStaR",
-            "position": "sup"
-          }
-        ],
-        "seed": 1,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2015": {
-        "abbreviation": "FNC",
-        "name": "Fnatic",
-        "placement": "3-4",
-        "ap": "4",
-        "region": "EU",
-        "roster": [
-          {
-            "name": "Huni",
-            "position": "top"
-          },
-          {
-            "name": "Reignover",
-            "position": "jg"
-          },
-          {
-            "name": "Febiven",
-            "position": "mid"
-          },
-          {
-            "name": "Rekkles",
-            "position": "bot"
-          },
-          {
-            "name": "YellOwStaR",
-            "position": "sup"
-          }
-        ],
-        "seed": 1,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2017": {
+      "Worlds 2020": {
         "abbreviation": "FNC",
         "name": "Fnatic",
         "placement": "5-8",
@@ -75,15 +9,15 @@
         "region": "EU",
         "roster": [
           {
-            "name": "sOAZ",
+            "name": "Bwipo",
             "position": "top"
           },
           {
-            "name": "Broxah",
+            "name": "Selfmade",
             "position": "jg"
           },
           {
-            "name": "Caps",
+            "name": "Nemesis",
             "position": "mid"
           },
           {
@@ -91,11 +25,45 @@
             "position": "bot"
           },
           {
-            "name": "Jesiz",
+            "name": "Hylissang",
             "position": "sup"
           }
         ],
-        "seed": 3,
+        "seed": 2,
+        "rosterOpen": false,
+        "totalAP": 22
+      }
+    },
+    {
+      "Worlds 2019": {
+        "abbreviation": "FNC",
+        "name": "Fnatic",
+        "placement": "5-8",
+        "ap": "2",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Bwipo",
+            "position": "top"
+          },
+          {
+            "name": "Broxah",
+            "position": "jg"
+          },
+          {
+            "name": "Nemesis",
+            "position": "mid"
+          },
+          {
+            "name": "Rekkles",
+            "position": "bot"
+          },
+          {
+            "name": "Hylissang",
+            "position": "sup"
+          }
+        ],
+        "seed": 2,
         "rosterOpen": false
       }
     },
@@ -133,11 +101,11 @@
       }
     },
     {
-      "Worlds 2019": {
+      "MSI 2018": {
         "abbreviation": "FNC",
         "name": "Fnatic",
-        "placement": "5-8",
-        "ap": "2",
+        "placement": "3-4",
+        "ap": "1",
         "region": "EU",
         "roster": [
           {
@@ -149,7 +117,7 @@
             "position": "jg"
           },
           {
-            "name": "Nemesis",
+            "name": "Caps",
             "position": "mid"
           },
           {
@@ -161,12 +129,11 @@
             "position": "sup"
           }
         ],
-        "seed": 2,
         "rosterOpen": false
       }
     },
     {
-      "Worlds 2020": {
+      "Worlds 2017": {
         "abbreviation": "FNC",
         "name": "Fnatic",
         "placement": "5-8",
@@ -174,15 +141,15 @@
         "region": "EU",
         "roster": [
           {
-            "name": "Bwipo",
+            "name": "sOAZ",
             "position": "top"
           },
           {
-            "name": "Selfmade",
+            "name": "Broxah",
             "position": "jg"
           },
           {
-            "name": "Nemesis",
+            "name": "Caps",
             "position": "mid"
           },
           {
@@ -190,11 +157,44 @@
             "position": "bot"
           },
           {
-            "name": "Hylissang",
+            "name": "Jesiz",
             "position": "sup"
           }
         ],
-        "seed": 2,
+        "seed": 3,
+        "rosterOpen": false
+      }
+    },
+    {
+      "Worlds 2015": {
+        "abbreviation": "FNC",
+        "name": "Fnatic",
+        "placement": "3-4",
+        "ap": "4",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Huni",
+            "position": "top"
+          },
+          {
+            "name": "Reignover",
+            "position": "jg"
+          },
+          {
+            "name": "Febiven",
+            "position": "mid"
+          },
+          {
+            "name": "Rekkles",
+            "position": "bot"
+          },
+          {
+            "name": "YellOwStaR",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
         "rosterOpen": false
       }
     },
@@ -231,35 +231,37 @@
       }
     },
     {
-      "MSI 2018": {
+      "Worlds 2013": {
         "abbreviation": "FNC",
         "name": "Fnatic",
         "placement": "3-4",
-        "ap": "1",
+        "ap": "4",
         "region": "EU",
         "roster": [
           {
-            "name": "Bwipo",
+            "name": "sOAZ",
             "position": "top"
           },
           {
-            "name": "Broxah",
+            "name": "Cyanide",
             "position": "jg"
           },
           {
-            "name": "Caps",
+            "name": "xPeke",
             "position": "mid"
           },
           {
-            "name": "Rekkles",
+            "name": "Puszu",
             "position": "bot"
           },
           {
-            "name": "Hylissang",
+            "name": "YellOwStaR",
             "position": "sup"
           }
         ],
-        "rosterOpen": false
+        "seed": 1,
+        "rosterOpen": false,
+        "totalAP": 22
       }
     }
   ],
@@ -293,13 +295,14 @@
             "position": "sup"
           }
         ],
-        "seed": 1
+        "seed": 1,
+        "totalAP": 4
       }
     }
   ],
   "C9": [
     {
-      "Worlds 2013": {
+      "Worlds 2021": {
         "abbreviation": "C9",
         "name": "Cloud9",
         "placement": "5-8",
@@ -307,77 +310,44 @@
         "region": "NA",
         "roster": [
           {
-            "name": "Balls",
+            "name": "Fudge",
             "position": "top"
           },
           {
-            "name": "Meteos",
+            "name": "Blaber",
             "position": "jg"
           },
           {
-            "name": "Hai",
+            "name": "Perkz",
             "position": "mid"
           },
           {
-            "name": "Sneaky",
+            "name": "Zven",
             "position": "bot"
           },
           {
-            "name": "LemonNation",
+            "name": "Vulcan",
             "position": "sup"
           }
         ],
-        "seed": 1,
-        "rosterOpen": false
+        "seed": 3,
+        "totalAP": 14
       }
     },
     {
-      "Worlds 2014": {
+      "Worlds 2018": {
         "abbreviation": "C9",
         "name": "Cloud9",
-        "placement": "5-8",
-        "ap": "2",
+        "placement": "3-4",
+        "ap": "4",
         "region": "NA",
         "roster": [
           {
-            "name": "Balls",
+            "name": "Licorice",
             "position": "top"
           },
           {
-            "name": "Meteos",
-            "position": "jg"
-          },
-          {
-            "name": "Hai",
-            "position": "mid"
-          },
-          {
-            "name": "Sneaky",
-            "position": "bot"
-          },
-          {
-            "name": "LemonNation",
-            "position": "sup"
-          }
-        ],
-        "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2016": {
-        "abbreviation": "C9",
-        "name": "Cloud9",
-        "placement": "5-8",
-        "ap": "2",
-        "region": "NA",
-        "roster": [
-          {
-            "name": "Impact",
-            "position": "top"
-          },
-          {
-            "name": "Meteos",
+            "name": "Svenskeren",
             "position": "jg"
           },
           {
@@ -389,7 +359,7 @@
             "position": "bot"
           },
           {
-            "name": "Smoothie",
+            "name": "Zeyzal",
             "position": "sup"
           }
         ],
@@ -431,19 +401,19 @@
       }
     },
     {
-      "Worlds 2018": {
+      "Worlds 2016": {
         "abbreviation": "C9",
         "name": "Cloud9",
-        "placement": "3-4",
-        "ap": "4",
+        "placement": "5-8",
+        "ap": "2",
         "region": "NA",
         "roster": [
           {
-            "name": "Licorice",
+            "name": "Impact",
             "position": "top"
           },
           {
-            "name": "Svenskeren",
+            "name": "Meteos",
             "position": "jg"
           },
           {
@@ -455,7 +425,7 @@
             "position": "bot"
           },
           {
-            "name": "Zeyzal",
+            "name": "Smoothie",
             "position": "sup"
           }
         ],
@@ -464,7 +434,7 @@
       }
     },
     {
-      "Worlds 2021": {
+      "Worlds 2014": {
         "abbreviation": "C9",
         "name": "Cloud9",
         "placement": "5-8",
@@ -472,31 +442,99 @@
         "region": "NA",
         "roster": [
           {
-            "name": "Fudge",
+            "name": "Balls",
             "position": "top"
           },
           {
-            "name": "Blaber",
+            "name": "Meteos",
             "position": "jg"
           },
           {
-            "name": "Perkz",
+            "name": "Hai",
             "position": "mid"
           },
           {
-            "name": "Zven",
+            "name": "Sneaky",
             "position": "bot"
           },
           {
-            "name": "Vulcan",
+            "name": "LemonNation",
             "position": "sup"
           }
         ],
-        "seed": 3
+        "seed": 2,
+        "rosterOpen": false
+      }
+    },
+    {
+      "Worlds 2013": {
+        "abbreviation": "C9",
+        "name": "Cloud9",
+        "placement": "5-8",
+        "ap": "2",
+        "region": "NA",
+        "roster": [
+          {
+            "name": "Balls",
+            "position": "top"
+          },
+          {
+            "name": "Meteos",
+            "position": "jg"
+          },
+          {
+            "name": "Hai",
+            "position": "mid"
+          },
+          {
+            "name": "Sneaky",
+            "position": "bot"
+          },
+          {
+            "name": "LemonNation",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
+        "rosterOpen": false,
+        "totalAP": 14
       }
     }
   ],
   "OMG": [
+    {
+      "Worlds 2014": {
+        "abbreviation": "OMG",
+        "name": "Oh My God",
+        "placement": "5-8",
+        "ap": "2",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Gogoing",
+            "position": "top"
+          },
+          {
+            "name": "Loveling",
+            "position": "jg"
+          },
+          {
+            "name": "cool",
+            "position": "mid"
+          },
+          {
+            "name": "san",
+            "position": "bot"
+          },
+          {
+            "name": "DaDa777",
+            "position": "sup"
+          }
+        ],
+        "seed": 3,
+        "totalAP": 4
+      }
+    },
     {
       "Worlds 2013": {
         "abbreviation": "OMG",
@@ -527,39 +565,8 @@
           }
         ],
         "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2014": {
-        "abbreviation": "OMG",
-        "name": "Oh My God",
-        "placement": "5-8",
-        "ap": "2",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "Gogoing",
-            "position": "top"
-          },
-          {
-            "name": "Loveling",
-            "position": "jg"
-          },
-          {
-            "name": "cool",
-            "position": "mid"
-          },
-          {
-            "name": "san",
-            "position": "bot"
-          },
-          {
-            "name": "DaDa777",
-            "position": "sup"
-          }
-        ],
-        "seed": 3
+        "rosterOpen": false,
+        "totalAP": 4
       }
     }
   ],
@@ -593,7 +600,8 @@
             "position": "sup"
           }
         ],
-        "seed": 3
+        "seed": 3,
+        "totalAP": 2
       }
     }
   ],
@@ -627,7 +635,8 @@
             "position": "sup"
           }
         ],
-        "seed": 1
+        "seed": 1,
+        "totalAP": 2
       }
     }
   ],
@@ -661,7 +670,8 @@
             "position": "sup"
           }
         ],
-        "seed": 2
+        "seed": 2,
+        "totalAP": 10
       }
     }
   ],
@@ -695,7 +705,8 @@
             "position": "sup"
           }
         ],
-        "seed": 1
+        "seed": 1,
+        "totalAP": 4
       }
     }
   ],
@@ -729,7 +740,8 @@
             "position": "sup"
           }
         ],
-        "seed": 3
+        "seed": 3,
+        "totalAP": 4
       }
     }
   ],
@@ -763,13 +775,14 @@
             "position": "sup"
           }
         ],
-        "seed": 1
+        "seed": 1,
+        "totalAP": 2
       }
     }
   ],
   "EDG": [
     {
-      "Worlds 2014": {
+      "Worlds 2022": {
         "abbreviation": "EDG",
         "name": "EDward Gaming",
         "placement": "5-8",
@@ -777,77 +790,11 @@
         "region": "CN",
         "roster": [
           {
-            "name": "Koro1",
+            "name": "Flandre",
             "position": "top"
           },
           {
-            "name": "Clearlove",
-            "position": "jg"
-          },
-          {
-            "name": "U",
-            "position": "mid"
-          },
-          {
-            "name": "NaMei",
-            "position": "bot"
-          },
-          {
-            "name": "Fzzf",
-            "position": "sup"
-          }
-        ],
-        "seed": 1,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2015": {
-        "abbreviation": "EDG",
-        "name": "EDward Gaming",
-        "placement": "5-8",
-        "ap": "2",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "Koro1",
-            "position": "top"
-          },
-          {
-            "name": "Clearlove",
-            "position": "jg"
-          },
-          {
-            "name": "PawN",
-            "position": "mid"
-          },
-          {
-            "name": "Deft",
-            "position": "bot"
-          },
-          {
-            "name": "Meiko",
-            "position": "sup"
-          }
-        ],
-        "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2016": {
-        "abbreviation": "EDG",
-        "name": "EDward Gaming",
-        "placement": "5-8",
-        "ap": "2",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "Mouse",
-            "position": "top"
-          },
-          {
-            "name": "Clearlove",
+            "name": "Jiejie",
             "position": "jg"
           },
           {
@@ -855,7 +802,41 @@
             "position": "mid"
           },
           {
-            "name": "Deft",
+            "name": "Viper",
+            "position": "bot"
+          },
+          {
+            "name": "Meiko",
+            "position": "sup"
+          }
+        ],
+        "seed": 3,
+        "rosterOpen": false,
+        "totalAP": 25
+      }
+    },
+    {
+      "Worlds 2021": {
+        "abbreviation": "EDG",
+        "name": "EDward Gaming",
+        "placement": "1",
+        "ap": "10",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Flandre",
+            "position": "top"
+          },
+          {
+            "name": "Jiejie",
+            "position": "jg"
+          },
+          {
+            "name": "Scout",
+            "position": "mid"
+          },
+          {
+            "name": "Viper",
             "position": "bot"
           },
           {
@@ -901,19 +882,19 @@
       }
     },
     {
-      "Worlds 2021": {
+      "Worlds 2016": {
         "abbreviation": "EDG",
         "name": "EDward Gaming",
-        "placement": "1",
-        "ap": "10",
+        "placement": "5-8",
+        "ap": "2",
         "region": "CN",
         "roster": [
           {
-            "name": "Flandre",
+            "name": "Mouse",
             "position": "top"
           },
           {
-            "name": "Jiejie",
+            "name": "Clearlove",
             "position": "jg"
           },
           {
@@ -921,7 +902,7 @@
             "position": "mid"
           },
           {
-            "name": "Viper",
+            "name": "Deft",
             "position": "bot"
           },
           {
@@ -934,7 +915,7 @@
       }
     },
     {
-      "Worlds 2022": {
+      "Worlds 2015": {
         "abbreviation": "EDG",
         "name": "EDward Gaming",
         "placement": "5-8",
@@ -942,19 +923,19 @@
         "region": "CN",
         "roster": [
           {
-            "name": "Flandre",
+            "name": "Koro1",
             "position": "top"
           },
           {
-            "name": "Jiejie",
+            "name": "Clearlove",
             "position": "jg"
           },
           {
-            "name": "Scout",
+            "name": "PawN",
             "position": "mid"
           },
           {
-            "name": "Viper",
+            "name": "Deft",
             "position": "bot"
           },
           {
@@ -962,7 +943,7 @@
             "position": "sup"
           }
         ],
-        "seed": 3,
+        "seed": 2,
         "rosterOpen": false
       }
     },
@@ -997,6 +978,40 @@
         ],
         "rosterOpen": false
       }
+    },
+    {
+      "Worlds 2014": {
+        "abbreviation": "EDG",
+        "name": "EDward Gaming",
+        "placement": "5-8",
+        "ap": "2",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Koro1",
+            "position": "top"
+          },
+          {
+            "name": "Clearlove",
+            "position": "jg"
+          },
+          {
+            "name": "U",
+            "position": "mid"
+          },
+          {
+            "name": "NaMei",
+            "position": "bot"
+          },
+          {
+            "name": "Fzzf",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
+        "rosterOpen": false,
+        "totalAP": 25
+      }
     }
   ],
   "OG": [
@@ -1029,21 +1044,55 @@
             "position": "sup"
           }
         ],
-        "seed": 3
+        "seed": 3,
+        "totalAP": 4
       }
     }
   ],
   "FW": [
     {
-      "Worlds 2015": {
+      "MSI 2018": {
         "abbreviation": "FW",
         "name": "Flash Wolves",
-        "placement": "5-8",
-        "ap": "2",
+        "placement": "3-4",
+        "ap": "1",
         "region": "LMS",
         "roster": [
           {
-            "name": "Steak",
+            "name": "Hanabi",
+            "position": "top"
+          },
+          {
+            "name": "Moojin",
+            "position": "jg"
+          },
+          {
+            "name": "Maple",
+            "position": "mid"
+          },
+          {
+            "name": "Betty",
+            "position": "bot"
+          },
+          {
+            "name": "SwordArt",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false,
+        "totalAP": 5
+      }
+    },
+    {
+      "MSI 2017": {
+        "abbreviation": "FW",
+        "name": "Flash Wolves",
+        "placement": "3-4",
+        "ap": "1",
+        "region": "LMS",
+        "roster": [
+          {
+            "name": "MMD",
             "position": "top"
           },
           {
@@ -1055,7 +1104,7 @@
             "position": "mid"
           },
           {
-            "name": "NL",
+            "name": "Betty",
             "position": "bot"
           },
           {
@@ -1063,7 +1112,6 @@
             "position": "sup"
           }
         ],
-        "seed": 2,
         "rosterOpen": false
       }
     },
@@ -1100,15 +1148,15 @@
       }
     },
     {
-      "MSI 2017": {
+      "Worlds 2015": {
         "abbreviation": "FW",
         "name": "Flash Wolves",
-        "placement": "3-4",
-        "ap": "1",
+        "placement": "5-8",
+        "ap": "2",
         "region": "LMS",
         "roster": [
           {
-            "name": "MMD",
+            "name": "Steak",
             "position": "top"
           },
           {
@@ -1120,7 +1168,7 @@
             "position": "mid"
           },
           {
-            "name": "Betty",
+            "name": "NL",
             "position": "bot"
           },
           {
@@ -1128,39 +1176,9 @@
             "position": "sup"
           }
         ],
-        "rosterOpen": false
-      }
-    },
-    {
-      "MSI 2018": {
-        "abbreviation": "FW",
-        "name": "Flash Wolves",
-        "placement": "3-4",
-        "ap": "1",
-        "region": "LMS",
-        "roster": [
-          {
-            "name": "Hanabi",
-            "position": "top"
-          },
-          {
-            "name": "Moojin",
-            "position": "jg"
-          },
-          {
-            "name": "Maple",
-            "position": "mid"
-          },
-          {
-            "name": "Betty",
-            "position": "bot"
-          },
-          {
-            "name": "SwordArt",
-            "position": "sup"
-          }
-        ],
-        "rosterOpen": false
+        "seed": 2,
+        "rosterOpen": false,
+        "totalAP": 5
       }
     }
   ],
@@ -1195,7 +1213,8 @@
           }
         ],
         "seed": 1,
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 3
       }
     },
     {
@@ -1233,6 +1252,39 @@
   ],
   "KT": [
     {
+      "Worlds 2018": {
+        "abbreviation": "KT",
+        "name": "KT Rolster",
+        "placement": "5-8",
+        "ap": "2",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Smeb",
+            "position": "top"
+          },
+          {
+            "name": "Score",
+            "position": "jg"
+          },
+          {
+            "name": "Ucal",
+            "position": "mid"
+          },
+          {
+            "name": "Deft",
+            "position": "bot"
+          },
+          {
+            "name": "Mata",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
+        "totalAP": 4
+      }
+    },
+    {
       "Worlds 2015": {
         "abbreviation": "KT",
         "name": "KT Rolster",
@@ -1262,43 +1314,45 @@
           }
         ],
         "seed": 3,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2018": {
-        "abbreviation": "KT",
-        "name": "KT Rolster",
-        "placement": "5-8",
-        "ap": "2",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Smeb",
-            "position": "top"
-          },
-          {
-            "name": "Score",
-            "position": "jg"
-          },
-          {
-            "name": "Ucal",
-            "position": "mid"
-          },
-          {
-            "name": "Deft",
-            "position": "bot"
-          },
-          {
-            "name": "Mata",
-            "position": "sup"
-          }
-        ],
-        "seed": 1
+        "rosterOpen": false,
+        "totalAP": 4
       }
     }
   ],
   "SSG": [
+    {
+      "Worlds 2017": {
+        "abbreviation": "SSG",
+        "name": "Samsung Galaxy",
+        "placement": "1",
+        "ap": "10",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "CuVee",
+            "position": "top"
+          },
+          {
+            "name": "Ambition",
+            "position": "jg"
+          },
+          {
+            "name": "Crown",
+            "position": "mid"
+          },
+          {
+            "name": "Ruler",
+            "position": "bot"
+          },
+          {
+            "name": "CoreJJ",
+            "position": "sup"
+          }
+        ],
+        "seed": 3,
+        "totalAP": 16
+      }
+    },
     {
       "Worlds 2016": {
         "abbreviation": "SSG",
@@ -1329,39 +1383,8 @@
           }
         ],
         "seed": 3,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2017": {
-        "abbreviation": "SSG",
-        "name": "Samsung Galaxy",
-        "placement": "1",
-        "ap": "10",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "CuVee",
-            "position": "top"
-          },
-          {
-            "name": "Ambition",
-            "position": "jg"
-          },
-          {
-            "name": "Crown",
-            "position": "mid"
-          },
-          {
-            "name": "Ruler",
-            "position": "bot"
-          },
-          {
-            "name": "CoreJJ",
-            "position": "sup"
-          }
-        ],
-        "seed": 3
+        "rosterOpen": false,
+        "totalAP": 16
       }
     }
   ],
@@ -1395,11 +1418,45 @@
             "position": "sup"
           }
         ],
-        "seed": 2
+        "seed": 2,
+        "totalAP": 4
       }
     }
   ],
   "ROX": [
+    {
+      "Worlds 2016": {
+        "abbreviation": "ROX",
+        "name": "ROX Tigers",
+        "placement": "3-4",
+        "ap": "4",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Smeb",
+            "position": "top"
+          },
+          {
+            "name": "Peanut",
+            "position": "jg"
+          },
+          {
+            "name": "Kuro",
+            "position": "mid"
+          },
+          {
+            "name": "PraY",
+            "position": "bot"
+          },
+          {
+            "name": "GorillA",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
+        "totalAP": 10
+      }
+    },
     {
       "Worlds 2015": {
         "abbreviation": "KOO",
@@ -1430,94 +1487,161 @@
           }
         ],
         "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2016": {
-        "abbreviation": "ROX",
-        "name": "ROX Tigers",
-        "placement": "3-4",
-        "ap": "4",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Smeb",
-            "position": "top"
-          },
-          {
-            "name": "Peanut",
-            "position": "jg"
-          },
-          {
-            "name": "Kuro",
-            "position": "mid"
-          },
-          {
-            "name": "PraY",
-            "position": "bot"
-          },
-          {
-            "name": "GorillA",
-            "position": "sup"
-          }
-        ],
-        "seed": 1
+        "rosterOpen": false,
+        "totalAP": 10
       }
     }
   ],
   "RNG": [
     {
-      "Worlds 2013": {
-        "abbreviation": "SHR",
-        "name": "Star Horn Royal Club",
-        "placement": "2",
-        "ap": "6",
+      "Worlds 2022": {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "5-8",
+        "ap": "2",
         "region": "CN",
         "roster": [
           {
-            "name": "Godlike",
+            "name": "Breathe",
             "position": "top"
           },
           {
-            "name": "Lucky",
+            "name": "Wei",
             "position": "jg"
           },
           {
-            "name": "Whit3zZ",
+            "name": "Xiaohu",
             "position": "mid"
           },
           {
-            "name": "Uzi",
+            "name": "GALA",
             "position": "bot"
           },
           {
-            "name": "Tabe",
+            "name": "Ming",
             "position": "sup"
           }
         ],
-        "seed": 1,
+        "seed": 4,
+        "rosterOpen": false,
+        "totalAP": 40
+      }
+    },
+    {
+      "MSI 2022": {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "1",
+        "ap": "5",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Bin",
+            "position": "top"
+          },
+          {
+            "name": "Wei",
+            "position": "jg"
+          },
+          {
+            "name": "Xiaohu",
+            "position": "mid"
+          },
+          {
+            "name": "GALA",
+            "position": "bot"
+          },
+          {
+            "name": "Ming",
+            "position": "sup"
+          }
+        ],
         "rosterOpen": false
       }
     },
     {
-      "Worlds 2014": {
-        "abbreviation": "SHR",
-        "name": "Star Horn Royal Club",
-        "placement": "2",
-        "ap": "6",
+      "Worlds 2021": {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "5-8",
+        "ap": "2",
         "region": "CN",
         "roster": [
           {
-            "name": "Cola",
+            "name": "Xiaohu",
             "position": "top"
           },
           {
-            "name": "inSec",
+            "name": "Wei",
             "position": "jg"
           },
           {
-            "name": "cprm",
+            "name": "Cryin",
+            "position": "mid"
+          },
+          {
+            "name": "GALA",
+            "position": "bot"
+          },
+          {
+            "name": "Ming",
+            "position": "sup"
+          }
+        ],
+        "seed": 3,
+        "rosterOpen": false
+      }
+    },
+    {
+      "MSI 2021": {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "1",
+        "ap": "5",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Bin",
+            "position": "top"
+          },
+          {
+            "name": "Wei",
+            "position": "jg"
+          },
+          {
+            "name": "Xiaohu",
+            "position": "mid"
+          },
+          {
+            "name": "GALA",
+            "position": "bot"
+          },
+          {
+            "name": "Ming",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false
+      }
+    },
+    {
+      "Worlds 2018": {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "5-8",
+        "ap": "2",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Letme",
+            "position": "top"
+          },
+          {
+            "name": "Karsa",
+            "position": "jg"
+          },
+          {
+            "name": "Xiahou",
             "position": "mid"
           },
           {
@@ -1525,7 +1649,72 @@
             "position": "bot"
           },
           {
-            "name": "Zero",
+            "name": "Ming",
+            "position": "sup"
+          }
+        ],
+        "seed": 2,
+        "rosterOpen": false
+      }
+    },
+    {
+      "MSI 2018": {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "1",
+        "ap": "5",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Letme",
+            "position": "top"
+          },
+          {
+            "name": "Karsa",
+            "position": "jg"
+          },
+          {
+            "name": "Xiaohu",
+            "position": "mid"
+          },
+          {
+            "name": "Uzi",
+            "position": "bot"
+          },
+          {
+            "name": "Ming",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false
+      }
+    },
+    {
+      "Worlds 2017": {
+        "abbreviation": "RNG",
+        "name": "Royal Never Give Up",
+        "placement": "3-4",
+        "ap": "4",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "Letme",
+            "position": "top"
+          },
+          {
+            "name": "Mixg",
+            "position": "jg"
+          },
+          {
+            "name": "Xiahou",
+            "position": "mid"
+          },
+          {
+            "name": "Uzi",
+            "position": "bot"
+          },
+          {
+            "name": "Ming",
             "position": "sup"
           }
         ],
@@ -1567,138 +1756,6 @@
       }
     },
     {
-      "Worlds 2017": {
-        "abbreviation": "RNG",
-        "name": "Royal Never Give Up",
-        "placement": "3-4",
-        "ap": "4",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "Letme",
-            "position": "top"
-          },
-          {
-            "name": "Mixg",
-            "position": "jg"
-          },
-          {
-            "name": "Xiahou",
-            "position": "mid"
-          },
-          {
-            "name": "Uzi",
-            "position": "bot"
-          },
-          {
-            "name": "Ming",
-            "position": "sup"
-          }
-        ],
-        "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2018": {
-        "abbreviation": "RNG",
-        "name": "Royal Never Give Up",
-        "placement": "5-8",
-        "ap": "2",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "Letme",
-            "position": "top"
-          },
-          {
-            "name": "Karsa",
-            "position": "jg"
-          },
-          {
-            "name": "Xiahou",
-            "position": "mid"
-          },
-          {
-            "name": "Uzi",
-            "position": "bot"
-          },
-          {
-            "name": "Ming",
-            "position": "sup"
-          }
-        ],
-        "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2021": {
-        "abbreviation": "RNG",
-        "name": "Royal Never Give Up",
-        "placement": "5-8",
-        "ap": "2",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "Xiaohu",
-            "position": "top"
-          },
-          {
-            "name": "Wei",
-            "position": "jg"
-          },
-          {
-            "name": "Cryin",
-            "position": "mid"
-          },
-          {
-            "name": "GALA",
-            "position": "bot"
-          },
-          {
-            "name": "Ming",
-            "position": "sup"
-          }
-        ],
-        "seed": 3,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2022": {
-        "abbreviation": "RNG",
-        "name": "Royal Never Give Up",
-        "placement": "5-8",
-        "ap": "2",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "Breathe",
-            "position": "top"
-          },
-          {
-            "name": "Wei",
-            "position": "jg"
-          },
-          {
-            "name": "Xiaohu",
-            "position": "mid"
-          },
-          {
-            "name": "GALA",
-            "position": "bot"
-          },
-          {
-            "name": "Ming",
-            "position": "sup"
-          }
-        ],
-        "seed": 4,
-        "rosterOpen": false
-      }
-    },
-    {
       "MSI 2016": {
         "abbreviation": "RNG",
         "name": "Royal Never Give Up",
@@ -1731,23 +1788,23 @@
       }
     },
     {
-      "MSI 2018": {
-        "abbreviation": "RNG",
-        "name": "Royal Never Give Up",
-        "placement": "1",
-        "ap": "5",
+      "Worlds 2014": {
+        "abbreviation": "SHR",
+        "name": "Star Horn Royal Club",
+        "placement": "2",
+        "ap": "6",
         "region": "CN",
         "roster": [
           {
-            "name": "Letme",
+            "name": "Cola",
             "position": "top"
           },
           {
-            "name": "Karsa",
+            "name": "inSec",
             "position": "jg"
           },
           {
-            "name": "Xiaohu",
+            "name": "cprm",
             "position": "mid"
           },
           {
@@ -1755,75 +1812,46 @@
             "position": "bot"
           },
           {
-            "name": "Ming",
+            "name": "Zero",
             "position": "sup"
           }
         ],
+        "seed": 2,
         "rosterOpen": false
       }
     },
     {
-      "MSI 2021": {
-        "abbreviation": "RNG",
-        "name": "Royal Never Give Up",
-        "placement": "1",
-        "ap": "5",
+      "Worlds 2013": {
+        "abbreviation": "SHR",
+        "name": "Star Horn Royal Club",
+        "placement": "2",
+        "ap": "6",
         "region": "CN",
         "roster": [
           {
-            "name": "Bin",
+            "name": "Godlike",
             "position": "top"
           },
           {
-            "name": "Wei",
+            "name": "Lucky",
             "position": "jg"
           },
           {
-            "name": "Xiaohu",
+            "name": "Whit3zZ",
             "position": "mid"
           },
           {
-            "name": "GALA",
+            "name": "Uzi",
             "position": "bot"
           },
           {
-            "name": "Ming",
+            "name": "Tabe",
             "position": "sup"
           }
         ],
-        "rosterOpen": false
-      }
-    },
-    {
-      "MSI 2022": {
-        "abbreviation": "RNG",
-        "name": "Royal Never Give Up",
-        "placement": "1",
-        "ap": "5",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "Bin",
-            "position": "top"
-          },
-          {
-            "name": "Wei",
-            "position": "jg"
-          },
-          {
-            "name": "Xiaohu",
-            "position": "mid"
-          },
-          {
-            "name": "GALA",
-            "position": "bot"
-          },
-          {
-            "name": "Ming",
-            "position": "sup"
-          }
-        ],
-        "rosterOpen": false
+        "seed": 1,
+        "rosterOpen": false,
+        "totalAP": 40
       }
     }
   ],
@@ -1857,7 +1885,8 @@
             "position": "sup"
           }
         ],
-        "seed": 3
+        "seed": 3,
+        "totalAP": 2
       }
     }
   ],
@@ -1892,7 +1921,8 @@
           }
         ],
         "seed": 3,
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 5
       }
     },
     {
@@ -1958,7 +1988,8 @@
             "position": "sup"
           }
         ],
-        "seed": 1
+        "seed": 1,
+        "totalAP": 2
       }
     }
   ],
@@ -1992,44 +2023,12 @@
             "position": "sup"
           }
         ],
-        "seed": 2
+        "seed": 2,
+        "totalAP": 2
       }
     }
   ],
   "IG": [
-    {
-      "Worlds 2018": {
-        "abbreviation": "IG",
-        "name": "Invictus Gaming",
-        "placement": "1",
-        "ap": "10",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "TheShy",
-            "position": "top"
-          },
-          {
-            "name": "Ning",
-            "position": "jg"
-          },
-          {
-            "name": "Rookie",
-            "position": "mid"
-          },
-          {
-            "name": "JackeyLove",
-            "position": "bot"
-          },
-          {
-            "name": "Baolan",
-            "position": "sup"
-          }
-        ],
-        "seed": 2,
-        "rosterOpen": false
-      }
-    },
     {
       "Worlds 2019": {
         "abbreviation": "IG",
@@ -2060,7 +2059,8 @@
           }
         ],
         "seed": 3,
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 15
       }
     },
     {
@@ -2094,11 +2094,78 @@
         ],
         "rosterOpen": false
       }
+    },
+    {
+      "Worlds 2018": {
+        "abbreviation": "IG",
+        "name": "Invictus Gaming",
+        "placement": "1",
+        "ap": "10",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "TheShy",
+            "position": "top"
+          },
+          {
+            "name": "Ning",
+            "position": "jg"
+          },
+          {
+            "name": "Rookie",
+            "position": "mid"
+          },
+          {
+            "name": "JackeyLove",
+            "position": "bot"
+          },
+          {
+            "name": "Baolan",
+            "position": "sup"
+          }
+        ],
+        "seed": 2,
+        "rosterOpen": false,
+        "totalAP": 15
+      }
     }
   ],
   "G2": [
     {
-      "Worlds 2018": {
+      "MSI 2022": {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "3-4",
+        "ap": "1",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "BrokenBlade",
+            "position": "top"
+          },
+          {
+            "name": "Jankos",
+            "position": "jg"
+          },
+          {
+            "name": "caPs",
+            "position": "mid"
+          },
+          {
+            "name": "Flakked",
+            "position": "bot"
+          },
+          {
+            "name": "Targamas",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false,
+        "totalAP": 23
+      }
+    },
+    {
+      "Worlds 2020": {
         "abbreviation": "G2",
         "name": "G2",
         "placement": "3-4",
@@ -2114,15 +2181,15 @@
             "position": "jg"
           },
           {
-            "name": "Perkz",
+            "name": "Caps",
             "position": "mid"
           },
           {
-            "name": "Hjarnan",
+            "name": "Perkz",
             "position": "bot"
           },
           {
-            "name": "Wadid",
+            "name": "MikyX",
             "position": "sup"
           }
         ],
@@ -2164,71 +2231,6 @@
       }
     },
     {
-      "Worlds 2020": {
-        "abbreviation": "G2",
-        "name": "G2",
-        "placement": "3-4",
-        "ap": "4",
-        "region": "EU",
-        "roster": [
-          {
-            "name": "Wunder",
-            "position": "top"
-          },
-          {
-            "name": "Jankos",
-            "position": "jg"
-          },
-          {
-            "name": "Caps",
-            "position": "mid"
-          },
-          {
-            "name": "Perkz",
-            "position": "bot"
-          },
-          {
-            "name": "MikyX",
-            "position": "sup"
-          }
-        ],
-        "seed": 1,
-        "rosterOpen": false
-      }
-    },
-    {
-      "MSI 2017": {
-        "abbreviation": "G2",
-        "name": "G2",
-        "placement": "2",
-        "ap": "3",
-        "region": "EU",
-        "roster": [
-          {
-            "name": "Expect",
-            "position": "top"
-          },
-          {
-            "name": "Trick",
-            "position": "jg"
-          },
-          {
-            "name": "Perkz",
-            "position": "mid"
-          },
-          {
-            "name": "Zven",
-            "position": "bot"
-          },
-          {
-            "name": "mithy",
-            "position": "sup"
-          }
-        ],
-        "rosterOpen": false
-      }
-    },
-    {
       "MSI 2019": {
         "abbreviation": "G2",
         "name": "G2",
@@ -2261,15 +2263,15 @@
       }
     },
     {
-      "MSI 2022": {
+      "Worlds 2018": {
         "abbreviation": "G2",
         "name": "G2",
         "placement": "3-4",
-        "ap": "1",
+        "ap": "4",
         "region": "EU",
         "roster": [
           {
-            "name": "BrokenBlade",
+            "name": "Wunder",
             "position": "top"
           },
           {
@@ -2277,15 +2279,49 @@
             "position": "jg"
           },
           {
-            "name": "caPs",
+            "name": "Perkz",
             "position": "mid"
           },
           {
-            "name": "Flakked",
+            "name": "Hjarnan",
             "position": "bot"
           },
           {
-            "name": "Targamas",
+            "name": "Wadid",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
+        "rosterOpen": false,
+        "totalAP": 23
+      }
+    },
+    {
+      "MSI 2017": {
+        "abbreviation": "G2",
+        "name": "G2",
+        "placement": "2",
+        "ap": "3",
+        "region": "EU",
+        "roster": [
+          {
+            "name": "Expect",
+            "position": "top"
+          },
+          {
+            "name": "Trick",
+            "position": "jg"
+          },
+          {
+            "name": "Perkz",
+            "position": "mid"
+          },
+          {
+            "name": "Zven",
+            "position": "bot"
+          },
+          {
+            "name": "mithy",
             "position": "sup"
           }
         ],
@@ -2323,7 +2359,8 @@
             "position": "sup"
           }
         ],
-        "seed": 0
+        "seed": 0,
+        "totalAP": 2
       }
     }
   ],
@@ -2357,7 +2394,8 @@
             "position": "sup"
           }
         ],
-        "seed": 1
+        "seed": 1,
+        "totalAP": 10
       }
     }
   ],
@@ -2391,7 +2429,8 @@
             "position": "sup"
           }
         ],
-        "seed": 2
+        "seed": 2,
+        "totalAP": 2
       }
     }
   ],
@@ -2425,7 +2464,8 @@
             "position": "sup"
           }
         ],
-        "seed": 0
+        "seed": 0,
+        "totalAP": 2
       }
     }
   ],
@@ -2459,7 +2499,8 @@
             "position": "sup"
           }
         ],
-        "seed": 3
+        "seed": 3,
+        "totalAP": 6
       }
     }
   ],
@@ -2493,11 +2534,45 @@
             "position": "sup"
           }
         ],
-        "seed": 1
+        "seed": 1,
+        "totalAP": 4
       }
     }
   ],
   "JDG": [
+    {
+      "Worlds 2022": {
+        "abbreviation": "JDG",
+        "name": "JD Gaming",
+        "placement": "3-4",
+        "ap": "4",
+        "region": "CN",
+        "roster": [
+          {
+            "name": "369",
+            "position": "top"
+          },
+          {
+            "name": "Kanavi",
+            "position": "jg"
+          },
+          {
+            "name": "Yagao",
+            "position": "mid"
+          },
+          {
+            "name": "Hope",
+            "position": "bot"
+          },
+          {
+            "name": "Missing",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
+        "totalAP": 6
+      }
+    },
     {
       "Worlds 2020": {
         "abbreviation": "JDG",
@@ -2528,61 +2603,30 @@
           }
         ],
         "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2022": {
-        "abbreviation": "JDG",
-        "name": "JD Gaming",
-        "placement": "3-4",
-        "ap": "4",
-        "region": "CN",
-        "roster": [
-          {
-            "name": "369",
-            "position": "top"
-          },
-          {
-            "name": "Kanavi",
-            "position": "jg"
-          },
-          {
-            "name": "Yagao",
-            "position": "mid"
-          },
-          {
-            "name": "Hope",
-            "position": "bot"
-          },
-          {
-            "name": "Missing",
-            "position": "sup"
-          }
-        ],
-        "seed": 1
+        "rosterOpen": false,
+        "totalAP": 6
       }
     }
   ],
   "GEN": [
     {
-      "Worlds 2020": {
+      "Worlds 2022": {
         "abbreviation": "GEN",
         "name": "GEN.G",
-        "placement": "5-8",
-        "ap": "2",
+        "placement": "3-4",
+        "ap": "4",
         "region": "KR",
         "roster": [
           {
-            "name": "Rascal",
+            "name": "Doran",
             "position": "top"
           },
           {
-            "name": "Clid",
+            "name": "Peanut",
             "position": "jg"
           },
           {
-            "name": "Bdd",
+            "name": "Chovy",
             "position": "mid"
           },
           {
@@ -2590,12 +2634,12 @@
             "position": "bot"
           },
           {
-            "name": "Life",
+            "name": "Lehends",
             "position": "sup"
           }
         ],
-        "seed": 3,
-        "rosterOpen": false
+        "seed": 1,
+        "totalAP": 10
       }
     },
     {
@@ -2632,53 +2676,19 @@
       }
     },
     {
-      "Worlds 2022": {
+      "Worlds 2020": {
         "abbreviation": "GEN",
         "name": "GEN.G",
-        "placement": "3-4",
-        "ap": "4",
+        "placement": "5-8",
+        "ap": "2",
         "region": "KR",
         "roster": [
           {
-            "name": "Doran",
+            "name": "Rascal",
             "position": "top"
           },
           {
-            "name": "Peanut",
-            "position": "jg"
-          },
-          {
-            "name": "Chovy",
-            "position": "mid"
-          },
-          {
-            "name": "Ruler",
-            "position": "bot"
-          },
-          {
-            "name": "Lehends",
-            "position": "sup"
-          }
-        ],
-        "seed": 1
-      }
-    }
-  ],
-  "DRX": [
-    {
-      "MSI 2018": {
-        "abbreviation": "KZ",
-        "name": "Kingzone DragonX",
-        "placement": "2",
-        "ap": "3",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Khan",
-            "position": "top"
-          },
-          {
-            "name": "Peanut",
+            "name": "Clid",
             "position": "jg"
           },
           {
@@ -2686,15 +2696,52 @@
             "position": "mid"
           },
           {
-            "name": "PraY",
+            "name": "Ruler",
             "position": "bot"
           },
           {
-            "name": "GorillA",
+            "name": "Life",
             "position": "sup"
           }
         ],
-        "rosterOpen": false
+        "seed": 3,
+        "rosterOpen": false,
+        "totalAP": 10
+      }
+    }
+  ],
+  "DRX": [
+    {
+      "Worlds 2022": {
+        "abbreviation": "DRX",
+        "name": "DRX",
+        "placement": "1",
+        "ap": "10",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Kingen",
+            "position": "top"
+          },
+          {
+            "name": "Pyosik",
+            "position": "jg"
+          },
+          {
+            "name": "Zeka",
+            "position": "mid"
+          },
+          {
+            "name": "Deft",
+            "position": "bot"
+          },
+          {
+            "name": "BeryL",
+            "position": "sup"
+          }
+        ],
+        "seed": 4,
+        "totalAP": 15
       }
     },
     {
@@ -2731,45 +2778,11 @@
       }
     },
     {
-      "Worlds 2022": {
-        "abbreviation": "DRX",
-        "name": "DRX",
-        "placement": "1",
-        "ap": "10",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Kingen",
-            "position": "top"
-          },
-          {
-            "name": "Pyosik",
-            "position": "jg"
-          },
-          {
-            "name": "Zeka",
-            "position": "mid"
-          },
-          {
-            "name": "Deft",
-            "position": "bot"
-          },
-          {
-            "name": "BeryL",
-            "position": "sup"
-          }
-        ],
-        "seed": 4
-      }
-    }
-  ],
-  "DK": [
-    {
-      "Worlds 2021": {
-        "abbreviation": "DK",
-        "name": "Damwon",
+      "MSI 2018": {
+        "abbreviation": "KZ",
+        "name": "Kingzone DragonX",
         "placement": "2",
-        "ap": "6",
+        "ap": "3",
         "region": "KR",
         "roster": [
           {
@@ -2777,26 +2790,28 @@
             "position": "top"
           },
           {
-            "name": "Canyon",
+            "name": "Peanut",
             "position": "jg"
           },
           {
-            "name": "ShowMaker",
+            "name": "Bdd",
             "position": "mid"
           },
           {
-            "name": "Ghost",
+            "name": "PraY",
             "position": "bot"
           },
           {
-            "name": "BeryL",
+            "name": "GorillA",
             "position": "sup"
           }
         ],
-        "seed": 1,
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 15
       }
-    },
+    }
+  ],
+  "DK": [
     {
       "Worlds 2022": {
         "abbreviation": "DK",
@@ -2827,7 +2842,42 @@
           }
         ],
         "seed": 3,
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 23
+      }
+    },
+    {
+      "Worlds 2021": {
+        "abbreviation": "DK",
+        "name": "Damwon",
+        "placement": "2",
+        "ap": "6",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Khan",
+            "position": "top"
+          },
+          {
+            "name": "Canyon",
+            "position": "jg"
+          },
+          {
+            "name": "ShowMaker",
+            "position": "mid"
+          },
+          {
+            "name": "Ghost",
+            "position": "bot"
+          },
+          {
+            "name": "BeryL",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
+        "rosterOpen": false,
+        "totalAP": 23
       }
     },
     {
@@ -2863,6 +2913,38 @@
       }
     },
     {
+      "Worlds 2020": {
+        "abbreviation": "DWG",
+        "name": "DAMWON Gaming",
+        "placement": "1",
+        "ap": "10",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Nuguri",
+            "position": "top"
+          },
+          {
+            "name": "Canyon",
+            "position": "jg"
+          },
+          {
+            "name": "ShowMaker",
+            "position": "mid"
+          },
+          {
+            "name": "Ghost",
+            "position": "bot"
+          },
+          {
+            "name": "BeryL",
+            "position": "sup"
+          }
+        ],
+        "seed": 1
+      }
+    },
+    {
       "Worlds 2019": {
         "abbreviation": "DWG",
         "name": "DAMWON Gaming",
@@ -2894,154 +2976,23 @@
         "seed": 3,
         "rosterOpen": false
       }
-    },
-    {
-      "Worlds 2020": {
-        "abbreviation": "DWG",
-        "name": "DAMWON Gaming",
-        "placement": "1",
-        "ap": "10",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Nuguri",
-            "position": "top"
-          },
-          {
-            "name": "Canyon",
-            "position": "jg"
-          },
-          {
-            "name": "ShowMaker",
-            "position": "mid"
-          },
-          {
-            "name": "Ghost",
-            "position": "bot"
-          },
-          {
-            "name": "BeryL",
-            "position": "sup"
-          }
-        ],
-        "seed": 1
-      }
     }
   ],
   "T1": [
     {
-      "Worlds 2013": {
-        "abbreviation": "SKT",
-        "name": "Sk Telecom T1",
-        "placement": "1",
-        "ap": "10",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Impact",
-            "position": "top"
-          },
-          {
-            "name": "Bengi",
-            "position": "jg"
-          },
-          {
-            "name": "Faker",
-            "position": "mid"
-          },
-          {
-            "name": "Piglet",
-            "position": "bot"
-          },
-          {
-            "name": "PoohManDu",
-            "position": "sup"
-          }
-        ],
-        "seed": 3,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2015": {
-        "abbreviation": "SKT",
-        "name": "SK Telecom T1",
-        "placement": "1",
-        "ap": "10",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "MaRin",
-            "position": "top"
-          },
-          {
-            "name": "Bengi",
-            "position": "jg"
-          },
-          {
-            "name": "Faker",
-            "position": "mid"
-          },
-          {
-            "name": "Bang",
-            "position": "bot"
-          },
-          {
-            "name": "Wolf",
-            "position": "sup"
-          }
-        ],
-        "seed": 1,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2016": {
-        "abbreviation": "SKT",
-        "name": "SK Telecom T1",
-        "placement": "1",
-        "ap": "10",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Duke",
-            "position": "top"
-          },
-          {
-            "name": "Bengi",
-            "position": "jg"
-          },
-          {
-            "name": "Faker",
-            "position": "mid"
-          },
-          {
-            "name": "Bang",
-            "position": "bot"
-          },
-          {
-            "name": "Wolf",
-            "position": "sup"
-          }
-        ],
-        "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2017": {
-        "abbreviation": "SKT",
-        "name": "SK Telecom T1",
+      "Worlds 2022": {
+        "abbreviation": "T1",
+        "name": "T1",
         "placement": "2",
         "ap": "6",
         "region": "KR",
         "roster": [
           {
-            "name": "Huni",
+            "name": "Zeus",
             "position": "top"
           },
           {
-            "name": "Blank",
+            "name": "Oner",
             "position": "jg"
           },
           {
@@ -3049,11 +3000,77 @@
             "position": "mid"
           },
           {
-            "name": "Bang",
+            "name": "Gumayusi",
             "position": "bot"
           },
           {
-            "name": "Wolf",
+            "name": "Keria",
+            "position": "sup"
+          }
+        ],
+        "seed": 2,
+        "rosterOpen": false,
+        "totalAP": 67
+      }
+    },
+    {
+      "MSI 2022": {
+        "abbreviation": "T1",
+        "name": "T1",
+        "placement": "2",
+        "ap": "3",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Zeus",
+            "position": "top"
+          },
+          {
+            "name": "Oner",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Gumayusi",
+            "position": "bot"
+          },
+          {
+            "name": "Keria",
+            "position": "sup"
+          }
+        ],
+        "rosterOpen": false
+      }
+    },
+    {
+      "Worlds 2021": {
+        "abbreviation": "T1",
+        "name": "T1",
+        "placement": "3-4",
+        "ap": "4",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Zeus",
+            "position": "top"
+          },
+          {
+            "name": "Oner",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Gumayusi",
+            "position": "bot"
+          },
+          {
+            "name": "Keria",
             "position": "sup"
           }
         ],
@@ -3095,19 +3112,19 @@
       }
     },
     {
-      "MSI 2015": {
+      "MSI 2019": {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
-        "placement": "2",
-        "ap": "3",
+        "placement": "3-4",
+        "ap": "1",
         "region": "KR",
         "roster": [
           {
-            "name": "MaRin",
+            "name": "Khan",
             "position": "top"
           },
           {
-            "name": "Bengi",
+            "name": "Clid",
             "position": "jg"
           },
           {
@@ -3115,11 +3132,11 @@
             "position": "mid"
           },
           {
-            "name": "Bang",
+            "name": "Teddy",
             "position": "bot"
           },
           {
-            "name": "Wolf",
+            "name": "Mata",
             "position": "sup"
           }
         ],
@@ -3127,15 +3144,15 @@
       }
     },
     {
-      "MSI 2016": {
+      "Worlds 2017": {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
-        "placement": "1",
-        "ap": "5",
+        "placement": "2",
+        "ap": "6",
         "region": "KR",
         "roster": [
           {
-            "name": "Duke",
+            "name": "Huni",
             "position": "top"
           },
           {
@@ -3155,6 +3172,7 @@
             "position": "sup"
           }
         ],
+        "seed": 2,
         "rosterOpen": false
       }
     },
@@ -3191,85 +3209,19 @@
       }
     },
     {
-      "Worlds 2021": {
-        "abbreviation": "T1",
-        "name": "T1",
-        "placement": "3-4",
-        "ap": "4",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Zeus",
-            "position": "top"
-          },
-          {
-            "name": "Oner",
-            "position": "jg"
-          },
-          {
-            "name": "Faker",
-            "position": "mid"
-          },
-          {
-            "name": "Gumayusi",
-            "position": "bot"
-          },
-          {
-            "name": "Keria",
-            "position": "sup"
-          }
-        ],
-        "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "Worlds 2022": {
-        "abbreviation": "T1",
-        "name": "T1",
-        "placement": "2",
-        "ap": "6",
-        "region": "KR",
-        "roster": [
-          {
-            "name": "Zeus",
-            "position": "top"
-          },
-          {
-            "name": "Oner",
-            "position": "jg"
-          },
-          {
-            "name": "Faker",
-            "position": "mid"
-          },
-          {
-            "name": "Gumayusi",
-            "position": "bot"
-          },
-          {
-            "name": "Keria",
-            "position": "sup"
-          }
-        ],
-        "seed": 2,
-        "rosterOpen": false
-      }
-    },
-    {
-      "MSI 2019": {
+      "Worlds 2016": {
         "abbreviation": "SKT",
         "name": "SK Telecom T1",
-        "placement": "3-4",
-        "ap": "1",
+        "placement": "1",
+        "ap": "10",
         "region": "KR",
         "roster": [
           {
-            "name": "Khan",
+            "name": "Duke",
             "position": "top"
           },
           {
-            "name": "Clid",
+            "name": "Bengi",
             "position": "jg"
           },
           {
@@ -3277,11 +3229,44 @@
             "position": "mid"
           },
           {
-            "name": "Teddy",
+            "name": "Bang",
             "position": "bot"
           },
           {
-            "name": "Mata",
+            "name": "Wolf",
+            "position": "sup"
+          }
+        ],
+        "seed": 2,
+        "rosterOpen": false
+      }
+    },
+    {
+      "MSI 2016": {
+        "abbreviation": "SKT",
+        "name": "SK Telecom T1",
+        "placement": "1",
+        "ap": "5",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Duke",
+            "position": "top"
+          },
+          {
+            "name": "Blank",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Bang",
+            "position": "bot"
+          },
+          {
+            "name": "Wolf",
             "position": "sup"
           }
         ],
@@ -3289,19 +3274,52 @@
       }
     },
     {
-      "MSI 2022": {
-        "abbreviation": "T1",
-        "name": "T1",
+      "Worlds 2015": {
+        "abbreviation": "SKT",
+        "name": "SK Telecom T1",
+        "placement": "1",
+        "ap": "10",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "MaRin",
+            "position": "top"
+          },
+          {
+            "name": "Bengi",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Bang",
+            "position": "bot"
+          },
+          {
+            "name": "Wolf",
+            "position": "sup"
+          }
+        ],
+        "seed": 1,
+        "rosterOpen": false
+      }
+    },
+    {
+      "MSI 2015": {
+        "abbreviation": "SKT",
+        "name": "SK Telecom T1",
         "placement": "2",
         "ap": "3",
         "region": "KR",
         "roster": [
           {
-            "name": "Zeus",
+            "name": "MaRin",
             "position": "top"
           },
           {
-            "name": "Oner",
+            "name": "Bengi",
             "position": "jg"
           },
           {
@@ -3309,15 +3327,49 @@
             "position": "mid"
           },
           {
-            "name": "Gumayusi",
+            "name": "Bang",
             "position": "bot"
           },
           {
-            "name": "Keria",
+            "name": "Wolf",
             "position": "sup"
           }
         ],
         "rosterOpen": false
+      }
+    },
+    {
+      "Worlds 2013": {
+        "abbreviation": "SKT",
+        "name": "Sk Telecom T1",
+        "placement": "1",
+        "ap": "10",
+        "region": "KR",
+        "roster": [
+          {
+            "name": "Impact",
+            "position": "top"
+          },
+          {
+            "name": "Bengi",
+            "position": "jg"
+          },
+          {
+            "name": "Faker",
+            "position": "mid"
+          },
+          {
+            "name": "Piglet",
+            "position": "bot"
+          },
+          {
+            "name": "PoohManDu",
+            "position": "sup"
+          }
+        ],
+        "seed": 3,
+        "rosterOpen": false,
+        "totalAP": 67
       }
     }
   ],
@@ -3351,7 +3403,8 @@
             "position": "sup"
           }
         ],
-        "seed": 4
+        "seed": 4,
+        "totalAP": 2
       }
     }
   ],
@@ -3386,7 +3439,8 @@
           }
         ],
         "seed": 1,
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 3
       }
     },
     {
@@ -3452,7 +3506,8 @@
             "position": "sup"
           }
         ],
-        "seed": 1
+        "seed": 1,
+        "totalAP": 2
       }
     }
   ],
@@ -3486,7 +3541,8 @@
             "position": "sup"
           }
         ],
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 3
       }
     }
   ],
@@ -3520,7 +3576,8 @@
             "position": "sup"
           }
         ],
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 3
       }
     }
   ],
@@ -3554,7 +3611,8 @@
             "position": "sup"
           }
         ],
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 1
       }
     }
   ],
@@ -3588,7 +3646,8 @@
             "position": "sup"
           }
         ],
-        "rosterOpen": false
+        "rosterOpen": false,
+        "totalAP": 1
       }
     }
   ]

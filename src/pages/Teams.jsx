@@ -6,36 +6,30 @@ import Loading from "../components/Loading";
 // import msi from "../data/events/international/msi/msi.json";
 import teams from "../data/teams/teams.json";
 function Teams() {
-  const [updatedTeams, setUpdatedTeams] = useState({ ...teams });
-  useEffect(() => {
-    for (const team in teams) {
-      if (Object.hasOwnProperty.call(teams, team)) {
-        const element = teams[team].reduce(
-          (a, b) => a + parseInt(b[Object.keys(b)[0]].ap),
-          0
-        );
-        teams[team][0][Object.keys(teams[team][0])].totalAP = element;
-      }
-      teams[team]
-        .sort((a, b) => (Object.keys(a)[0] > Object.keys(b)[0] ? -1 : 1))
-        .sort((a, b) =>
-          Object.keys(a)[0].split(" ")[1] > Object.keys(b)[0].split(" ")[1]
-            ? -1
-            : 1
-        );
-    }
-
-    setTeamsList(
-      Object.keys(teams).sort((a, b) =>
-        parseInt(teams[a][0][Object.keys(teams[a][0])[0]].totalAP) >
-        parseInt(teams[b][0][Object.keys(teams[b][0])[0]].totalAP)
-          ? -1
-          : 1
-      )
-    );
-  }, [updatedTeams]);
-
-  const [teamsList, setTeamsList] = useState([]);
+  // for (const team in teams) {
+  //   if (Object.hasOwnProperty.call(teams, team)) {
+  //     const element = teams[team].reduce(
+  //       (a, b) => a + parseInt(b[Object.keys(b)[0]].ap),
+  //       0
+  //     );
+  //     teams[team][0][Object.keys(teams[team][0])].totalAP = element;
+  //   }
+  //   teams[team]
+  //     .sort((a, b) => (Object.keys(a)[0] > Object.keys(b)[0] ? -1 : 1))
+  //     .sort((a, b) =>
+  //       Object.keys(a)[0].split(" ")[1] > Object.keys(b)[0].split(" ")[1]
+  //         ? -1
+  //         : 1
+  //     );
+  // }
+  const [teamsList, setTeamsList] = useState(
+    Object.keys(teams).sort((a, b) =>
+      parseInt(teams[a][0][Object.keys(teams[a][0])[0]].totalAP) >
+      parseInt(teams[b][0][Object.keys(teams[b][0])[0]].totalAP)
+        ? -1
+        : 1
+    )
+  );
 
   const [showModal, setShowModal] = useState(false);
   const handleCloseModal = (event) => {
@@ -99,16 +93,12 @@ function Teams() {
               backgroundColor="#141414"
               color="white"
               className="square-logo"
-              onClick={() => handleOpenAndPopulateModal(updatedTeams[team])}
+              onClick={() => handleOpenAndPopulateModal(teams[team])}
             >
               <span
                 style={{ position: "absolute", top: "10px", right: "10px" }}
               >
-                AP:{" "}
-                {
-                  updatedTeams[team][0][Object.keys(updatedTeams[team][0])]
-                    .totalAP
-                }
+                AP: {teams[team][0][Object.keys(teams[team][0])].totalAP}
               </span>
             </Card>
           );
