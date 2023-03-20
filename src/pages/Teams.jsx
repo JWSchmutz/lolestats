@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import Card from "../components/Card/Card";
 import Modal from "../components/Modal/Modal";
+import Loading from "../components/Loading";
 // import worlds from "../data/events/international/worlds/worlds.json";
 // import msi from "../data/events/international/msi/msi.json";
 import teams from "../data/teams/teams.json";
@@ -30,8 +31,10 @@ function Teams() {
           : 1
       )
     );
+    setHasLoaded(teams["T1"][0][Object.keys(teams["T1"][0])].totalAP);
   }, []);
   const [teamsList, setTeamsList] = useState([]);
+  const [hasLoaded, setHasLoaded] = useState(undefined);
 
   const [showModal, setShowModal] = useState(false);
   const handleCloseModal = (event) => {
@@ -82,27 +85,29 @@ function Teams() {
     <div className="teams">
       <h1 className="title">Teams</h1>
       <div className="teams-list">
-        {teamsList.map((team, i) => {
-          return (
-            <Card
-              key={i}
-              logo={require("../images/teams/" + team + ".png")}
-              logoSideLength="75"
-              title={team}
-              titlePadding="true"
-              backgroundColor="#141414"
-              color="white"
-              className="square-logo"
-              onClick={() => handleOpenAndPopulateModal(teams[team])}
-            >
-              <span
-                style={{ position: "absolute", top: "10px", right: "10px" }}
+        {!hasLoaded && <Loading />}
+        {hasLoaded > 60 &&
+          teamsList.map((team, i) => {
+            return (
+              <Card
+                key={i}
+                logo={require("../images/teams/" + team + ".png")}
+                logoSideLength="75"
+                title={team}
+                titlePadding="true"
+                backgroundColor="#141414"
+                color="white"
+                className="square-logo"
+                onClick={() => handleOpenAndPopulateModal(teams[team])}
               >
-                AP: {teams[team][0][Object.keys(teams[team][0])].totalAP}
-              </span>
-            </Card>
-          );
-        })}
+                <span
+                  style={{ position: "absolute", top: "10px", right: "10px" }}
+                >
+                  AP: {teams[team][0][Object.keys(teams[team][0])].totalAP}
+                </span>
+              </Card>
+            );
+          })}
       </div>
       {showModal && (
         <Modal handleCloseModal={handleCloseModal}>
