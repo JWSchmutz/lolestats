@@ -22,15 +22,16 @@ function Teams() {
             : 1
         );
     }
+    setTeamsList[
+      Object.keys(teams).sort((a, b) =>
+        parseInt(teams[a][0][Object.keys(teams[a][0])[0]].totalAP) >
+        parseInt(teams[b][0][Object.keys(teams[b][0])[0]].totalAP)
+          ? -1
+          : 1
+      )
+    ];
   }, []);
-  const [teamsList, setTeamsList] = useState(
-    Object.keys(teams).sort((a, b) =>
-      parseInt(teams[a][0][Object.keys(teams[a][0])[0]].totalAP) >
-      parseInt(teams[b][0][Object.keys(teams[b][0])[0]].totalAP)
-        ? -1
-        : 1
-    )
-  );
+  const [teamsList, setTeamsList] = useState([]);
 
   const [showModal, setShowModal] = useState(false);
   const handleCloseModal = (event) => {
